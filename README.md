@@ -13,3 +13,4 @@ This app will only work with the preprocessed data that is internal to MA DPH. I
     ./server.tool
 
 
+Please reach out to hello@fathom.info with questions. 
