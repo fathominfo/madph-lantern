@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="icon.jpg">
+  <link rel="stylesheet" href="index.css">
+  <!--
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  -->
+
+  <title> Lookout </title>
+
+  <!-- temporarily disabled while debugging some other font bits
+  <script src="octet/opentype.min.js"></script>
+  -->
+  <script type="module" src="octet/util.js"></script>
+  <script type="module" src="octet/sketch.js"></script>
+  <script type="module" src="libs/d3.v7.min.js"></script>
+  <!--
+  <script src="octet/sketch.js"></script>
+  <script src="octet/opentype.min.js"></script>
+  -->
+  <!--
+  <script src="SoftNum.js"></script>
+  <script src="SimpleSVG.js"></script>
+  -->
+</head>
+
+<body>
+  <div id="outer">
+
+    <div id="flex-upper">
+      <canvas id="timeline"> </canvas>
+      <div id="header-geo">
+        <div class="dropdown-container">
+          <button type="button" id="sitemap" aria-expanded="false" aria-controls="site-dropdown"></button>
+          <div class="dropdown" id="site-dropdown" tabindex="-1"></div>
+        </div>
+        <div id="minimap"></div>
+      </div>
+    </div>
+
+    <div id="flex-lower">
+      <!-- this is filled by lookout.js with the different views -->
+      <div id="home-container" class="column-container">
+        <div class="flex-col">
+          <div class="flex home-nav">
+            <div class="flex-col">
+              <p class="nav-case-count">8,500 total cases</p>
+              <p class="nav-selection">
+                <span class="nav-site">Nigeria</span>, 
+                <span class="nav-daterange">July 7-October 26</span>
+              </p>
+            </div>
+          </div>
+          <div class="flex main">
+          </div>
+        </div>
+      </div>
+
+      <!-- template for single pathogens -->
+      <div class="column-container single-container">
+        <div class="flex-col">
+          <div class="flex home-nav">
+            <button type="button" class="home-button">
+              <span class="icon"></span>
+              <span class="visually-hidden">Back</span>
+            </button>
+            <div class="flex-col">
+              <div class="top-row">
+                <p id="app-title">Lantern</p>
+                <p class="nav-disease">Salmonella</p>
+              </div>
+              <p class="nav-selection">
+                <span class="nav-site"></span>, 
+                <span class="nav-daterange"></span>
+              </p>
+            </div>
+          </div>
+          <div class="main">
+          </div>
+        </div>
+      </div>
+
+        <!-- unknowns -->
+        <div id="unknowns-container" class="column-container">
+          <div class="flex-col">
+            <div class="flex home-nav">
+              <button type="button" class="home-button">
+                <span class="icon"></span>
+                <span class="visually-hidden">Back</span>
+              </button>
+              <div class="flex-col">
+                <p class="nav-disease">Unknowns</p>
+                <p class="nav-selection">
+                  <span class="nav-site">Nigeria</span>, 
+                  <span class="nav-daterange">July 7-October 26</span>
+                </p>
+              </div>
+            </div>
+              <div class="flex">
+              <div class="flex-col">
+                <h2>Unknowns</h2>
+                <div id="unknowns-table-container"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <section id="templates" style="display: none;">
+      <div class="percent-header flex">
+        <h3></h3>
+        <p><span class="rec-count"></span>% of records</p>
+      </div>
+      
+      
+      <svg class="chart-svg donut-chart chart" width="100%" height="100%" viewbox="0 0 100 100">
+        <g style="transform: translate(50%, 50%);">
+          <path class="sector" data-disease="" d=""></path>
+        </g>
+      </svg>
+
+      <svg class="chart-svg flat-donut-chart chart" width="100%" height="100%">
+        <g style="transform: translate(50%, 50%);">
+          <path class="sector" data-disease="" d=""></path>
+        </g>
+      </svg>
+    
+      <div class="leaderboard"></div>
+      <span class="leaderboard-bar-wrap">
+        <span class="bar" style="width: 0%;"></span>
+      </span>
+
+      <div class="histogram">
+        <div class="column-wrap">
+          <div class="bar-wrap">
+            <div class="bar"></div>
+          </div>
+          <div class="bar-readout">
+            <span class="value"></span>
+            <span class="count"></span>
+          </div>
+        </div>
+        <div class="no-data">No data<br/>available.</div>
+      </div>
+
+      <div class="filter-container">
+        <div class="filter-label"></div>
+        <div class="filter-list"></div>
+      </div>
+    
+      <div class="toggle-readout">
+        <label>
+          <input type="checkbox">
+          <span class="num"></span>
+          <span class="value"></span>
+        </label> 
+      </div>
+
+      <button class="filter-value">
+        <span class="value-label"></span>
+        <span class="dismisser">
+          <span class="visually-hidden">Dismiss</span>
+          <span class="icon"></span>
+        </span>
+      </button>
+
+      <span class="field-div expander">
+        <span class="visually-hidden">Expand</span>
+        <span class="icon">+</span>
+      </span>
+
+      <div class="expanded-module"></div>
+
+      <div class="text-tally">
+        <div class="text-tally-header">
+          <p class="field-name"></p>
+          <p class="count-readout"></p>  
+        </div>
+        <p class="words">
+          <button class="text-button"></button>
+        </p>
+        <div class="title-detail"><div class="titles"></div></div>
+      </div>
+
+      <div class="togglepanel">
+        <form class="radio">
+          <label>
+            <input type="radio" name="ele"/>
+            <span class="toggle-title"></span>
+          </label>
+        </form>
+        <div class="charts"></div>
+      </div>
+
+      
+  </section>
+
+  <script type="module" src="lookout.js"> </script>
+
+</body>
+
+</html>

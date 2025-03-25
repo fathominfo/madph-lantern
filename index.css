@@ -1,0 +1,1462 @@
+/* fonts */
+
+@font-face {
+  src: url("/fonts/Inter-ExtraLight.otf");
+  font-family: "Inter";
+  font-weight: 200;
+}
+
+@font-face {
+    src: url("/fonts/Inter-Regular.otf");
+    font-family: "Inter";
+    font-weight: 400;
+}
+
+@font-face {
+    src: url("/fonts/Inter-Medium.otf");
+    font-family: "Inter";
+    font-weight: 500;
+}
+
+@font-face {
+    src: url("/fonts/Inter-Bold.otf");
+    font-family: "Inter";
+    font-weight: 700;
+}
+
+/* resets */
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+    margin: 0;
+}
+
+h3 {
+  font-size: 1em;
+}
+
+table {
+    width: max-content;
+    border-collapse: collapse;
+}
+
+tr+tr {
+    border-top: 1px solid lightgray;
+}
+
+th,
+td {
+    padding: 0.2em 0.4em;
+}
+
+canvas {
+    /* background-color: grey; */
+}
+
+form {
+    margin: 0;
+}
+
+input,
+button,
+select {
+    font: inherit;
+}
+
+button {
+  appearance: none;
+  background: none;
+  border-color: transparent;
+  color: inherit;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+/* utility classes */
+
+.flex {
+    display: flex;
+    /* align-items: center; */
+    gap: 0.5em;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.flex-wrap {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+
+.hidden {
+  display: none !important;
+}
+
+/* Hide from visual appearances, but still
+expose to assistive technologies. Useful for
+building custom inputs on top of native inputs. */
+.visually-hidden {
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  padding: 0 !important;
+
+  /* Optional improvement to add a focus outline
+  to the corresponding label for the input
+  (only when the browser deems it relevant) */
+  /* &:focus-visible + label {
+    outline: auto;
+  } */
+}
+
+.icon {
+  /* default to the current color */
+  --color: currentColor;
+  /* display: inline-block; */
+  display: block; /* seems to behave better */
+  width: 100%;
+  height: 100%;
+  mask: var(--url);
+  mask-repeat: no-repeat;
+  mask-position: center center;
+  background-color: var(--color);
+  /* let the parent handle pointer events */
+  pointer-events: none;
+}
+
+.dropdown {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  transform: translate(0, 100%);
+  /* display: flex; */
+  display: none;
+  flex-direction: column;
+  z-index: 1;
+  font-size: 0.75rem;
+}
+
+.dropdown-option {
+  padding: 0.25rem;
+  font-weight: 400;
+  color: var(--fg);
+  background-color: var(--bg);
+}
+
+.dropdown-option:hover {
+  background-color: var(--bg-on);
+  /* duplicating this color for the hover state for now */
+  color: var(--fg-active);
+}
+
+.dropdown-option:first-of-type,
+.dropdown-option + .dropdown-option {
+  border-top: 1px solid;
+}
+
+.dropdown-option + .dropdown-option {
+  margin-top: -1px;
+}
+
+.dropdown-option[aria-current="true"] {
+  font-weight: 700;
+  color: var(--fg-active);
+  background-color: var(--bg-active);
+}
+
+/* using the semantic `aria-expanded` to control
+whether the dropdown is showing */
+[aria-expanded="true"] + .dropdown {
+  display: flex;
+}
+
+/* styles */
+
+body {
+    padding: 0;
+    margin: 0;
+
+    overflow: hidden;
+
+    /* font-smooth: always; */
+    -webkit-font-smoothing: antialiased;
+    /* -moz-osx-font-smoothing: grayscale; */
+    background-color: #444;
+
+    font-family: "Inter", sans-serif;
+}
+
+/*
+
+
+ ██████╗ ██╗   ██╗███████╗██████╗ ██╗   ██╗██╗███████╗██╗    ██╗
+██╔═══██╗██║   ██║██╔════╝██╔══██╗██║   ██║██║██╔════╝██║    ██║
+██║   ██║██║   ██║█████╗  ██████╔╝██║   ██║██║█████╗  ██║ █╗ ██║
+██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗╚██╗ ██╔╝██║██╔══╝  ██║███╗██║
+╚██████╔╝ ╚████╔╝ ███████╗██║  ██║ ╚████╔╝ ██║███████╗╚███╔███╔╝
+ ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝ ╚══╝╚══╝ 
+                                                                
+*/
+
+
+body.overview #home-container {
+    display: flex;
+}
+
+#outer {
+    position: absolute;
+    /* display: flex; */
+    flex-direction: column;
+    overflow: hidden;
+    /*
+    aspect-ratio: 16 / 9;
+    padding: 40px;
+    */
+}
+
+/* essentially 80px, making 1280x720 into 1280x800 (16x9 into 16x10) */
+#flex-upper {
+    height: 10%;
+    /* overflow: hidden; */
+    position: relative;
+    /* background-color: #555; */
+}
+
+#timeline {
+  position: absolute;
+  inset: 0;
+}
+
+#header-geo {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  position: relative;
+  z-index: 1;
+  padding: 0.5rem 5rem 0 0;
+  gap: 0.5rem;
+  pointer-events: none;
+}
+
+.dropdown-container {
+  position: relative;
+  height: 100%;
+  pointer-events: all;
+}
+
+#sitemap,
+#minimap {
+  height: 100%;
+  width: 5rem;
+  background-color: rgb(58, 101, 108);
+  padding: 0.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.2rem;
+  pointer-events: all;
+  align-items: center;
+}
+
+#sitemap svg,
+#minimap svg {
+  flex: 1;
+}
+
+#sitemap span,
+#minimap span {
+  font-size: 65%;
+  font-weight: 700;
+  color: white;
+  display: block;
+  text-align: center;
+}
+
+#sitemap svg path.highlight,
+#minimap svg path.highlight {
+  stroke-width: 12.5;
+}
+
+#home-container > .flex-col {
+  width: 100%;
+}
+
+#home-container .main {
+  max-height: 100%;
+  padding: 1% 2%;
+  height: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 2.5%;
+}
+
+#flex-lower {
+    height: 90%;
+    overflow: hidden;
+}
+
+
+#home-container {
+    background-color: #ececec;
+    display: flex;
+    flex-direction: row;
+    /*margin: 10px;*/
+    /*padding: 20px;*/
+    height: 100%;
+    /*height: 90vh;*/
+}
+
+.single-container {
+    background-color: #ececec;
+    /* display: flex; */
+    flex-direction: row;
+    /*margin: 10px;*/
+    /*padding: 20px;*/
+    /* font-size: 30px; */
+    height: 100%;
+    /*height: 90vh;*/
+    gap: 0.5em;
+    display: none;
+}
+
+#unknowns-container {
+    background-color: #ececec;
+    /* display: flex; */
+    display: none;
+    flex-direction: row;
+    /*margin: 10px;*/
+    /*padding: 20px;*/
+    /* font-size: 30px; */
+    height: 100%;
+    /*height: 90vh;*/
+    gap: 0.5em;
+}
+
+
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    flex: 1;
+    overflow: hidden;
+    /* min-width: 33.33%; */
+}
+
+.panel {
+    position: relative;
+    flex: unset;
+    width: 100%;
+    height: auto;
+}
+
+
+/*
+.panel h2 {
+    font-size: 25px;
+    margin: unset;
+    width: auto;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+*/
+
+
+/* still used by the svg map, donuts, and treemaps */
+.panel-square {
+    aspect-ratio: 1;
+}
+
+.row > .panel-square {
+  width: auto;
+}
+/* .block-square > .panel-square {
+  width: 50%;
+} */
+
+.panel-medium-square-leftover {
+  aspect-ratio: 160 / 120;
+}
+
+
+
+/* these are being set in the constructor for view.js */
+
+.panel-large {
+    aspect-ratio: 320 / 160;
+}
+
+.panel-medium {
+    aspect-ratio: 320 / 120;
+}
+
+.panel-small {
+    aspect-ratio: 320 / 72;
+}
+
+.panel.header.inline {
+  overflow: visible;
+  height: 0;
+  z-index: 1;
+  margin: 5px 6px -14px;
+  font-size: 60%;
+}
+.panel-oneliner.header h3 {
+  font-size: 50%;
+}
+.panel-tall {
+  aspect-ratio: 320 / 600;
+}
+
+.panel-grow {
+  flex: 1;
+  /* max-height: 100%; */
+  overflow: hidden;
+}
+
+.toggle-readout {
+  margin-bottom: 3px;
+  max-width: 100%;
+  max-height: 100%;
+  overflow-x: clip;
+  overflow-y: auto;
+
+  display: grid;
+  grid-template-columns: 4ch 1fr;
+  gap: 0 1em;
+}
+
+
+.toggle-readout label {
+  cursor: pointer;
+  background-color: white;
+  padding: 0.1em 0;
+}
+
+
+
+/* .value-toggle .toggle-readout {
+  padding-top: 14%;
+} */
+
+.value-toggle label, .leaderboard label {
+  background-color: transparent;
+  font-weight: 700;
+  font-size: 0.875em;
+  /* display: flex; */
+  grid-column: 1 / span 3;
+  display: grid;
+  grid-template-columns: subgrid;
+  position: relative;
+  /* max-width: 90%; */
+  overflow-x: hidden;
+}
+
+.value-toggle label:has(input:focus-visible) {
+  outline: auto;
+}
+
+/* .value-toggle label:hover {
+  background-color: rgba(240,240,240);
+} */
+
+.value-toggle label input, .leaderboard label input {
+  /* .visually-hidden */
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+  height: 1px;
+  overflow: hidden;
+  position: absolute;
+  white-space: nowrap;
+  width: 1px;
+  padding: 0 !important;
+}
+
+.value-toggle label .num, .leaderboard label .num {
+  text-align: right;
+  font-feature-settings: "tnum";
+}
+
+.value-toggle label.unselected .num, .leaderboard  label.unselected .num {
+  opacity: 0;
+}
+
+.value-toggle label .value, .leaderboard label .value {
+  text-align: left;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  position: relative;
+}
+
+
+.test-toggle {
+    width: fit-content;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+.test-toggle .toggle-readout {
+  overflow: hidden;
+  display: flex;
+  gap: 1em;
+  background-color: white;
+  padding: 0.5em 0.75em;
+  margin-bottom: 0;
+  font-size: 0.7rem;
+}
+.test-toggle .toggle-readout label {
+  padding: 0;
+}
+
+.test-toggle h3 {
+  color: #5E5E5E;
+  font-weight: 500;
+  /* font-size: 0.75em; */
+  font-size: 0.9em;
+}
+
+.test-toggle tbody {
+  display: flex;
+  flex-direction: row;
+}
+
+.test-toggle label {
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+}
+
+.test-toggle label .num {
+  display: none;
+}
+
+.test-toggle label .value {
+  font-weight: 500;
+}
+
+/* .test-toggle .toggle-readout label {
+  display: inline-block;
+} */
+
+.block {
+  position: relative;
+  /* width: 100%; */
+  overflow: hidden;
+  border: 1px solid transparent;
+}
+
+.filters {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: fit-content;
+    height: 4em;
+}
+
+.filters:empty {
+  /* display: none; */
+}
+
+.filter-container {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+  font-size: 0.8125rem;
+}
+
+.filter-label {
+  color: #5E5E5E;
+  /* font-size: 0.75em; */
+  font-size: 0.9em;
+  font-weight: 500;
+}
+
+.filter-list {
+    display: flex;
+    flex-direction: row;
+    gap: 5px;
+    font-size: 0.7rem;
+}
+
+.filter-value {
+    padding: calc(0.5em - 1px) 0.75em; /* accounting for border */
+    background-color: #8EBEA1;
+    color: #13341F;
+    border: 1px solid #4E7C62;
+    justify-content: space-between;
+    white-space: nowrap;
+    font-weight: 500;
+
+    display: flex;
+    align-items: center;
+    gap: 0.5em;
+}
+
+.dismisser {
+  width: 0.875em;
+  height: 0.875em;
+
+  .icon {
+    --url: url("assets/icons/dismiss-g3.svg");
+  }
+}
+
+/* 
+similar to panel-large etc.
+but with room for a header
+*/
+.block-large {
+  aspect-ratio: 700 / 360;
+}
+
+.block-medium {
+  aspect-ratio: 350 / 160;
+}
+
+.block-medium.row {
+  /* padding: 2.5em 1em 1em 1em; this was overriding the aspect ratio, instead apply padding to inner containers */
+}
+
+.block-square {
+  aspect-ratio: 1;
+  align-items: start;
+}
+
+.block-small {
+  /* aspect-ratio: 320 / 92; */
+  aspect-ratio: 320 / 80;
+}
+
+
+.block-medium.block.row h2 {
+  font-weight: 400;
+}
+
+.block:has(.panel) > h3,
+.panel:has(canvas) > h3 {
+  position: absolute;
+  top: 0.3em;
+  left: 0.5em;
+  z-index: 1;
+  font-weight: 500;
+}
+
+.block,
+.panel {
+  font-size: 0.8125rem;
+}
+
+.block-large,
+.panel-large {
+  font-size: 0.875rem;
+}
+
+.block h3 .label-detail {
+  display: inline-block;
+  margin-left: 0.4em;
+  font-weight: 400;
+  color: #555;
+}
+
+.block.row {
+  display: flex;
+  flex-direction: row;
+  /* gap: 1%; */
+  gap: 0.5em;
+}
+
+.block.row.filtering {
+  background-color: #F2F8F4;
+}
+
+.block.column {
+  display: flex;
+  flex-direction: column;
+  /* gap: 1%; */
+  gap: 0.5em;
+}
+
+.block.column.column-gap-none {
+  gap: 0em;
+}
+
+/* .block.column-tight {
+  display: flex;
+  flex-direction: column;
+  gap: 0.125em;
+} */
+
+.block.grid {
+  display: grid;
+  gap: 10px;
+  padding-top: 20px;
+}
+
+/*  */
+
+.home-nav .nav-selection {
+  font-size: 80%;
+  color: #AACCD5;
+}
+
+.column-container .home-nav {
+  position: absolute;
+  top: 1em;
+  left: 1.75em;
+  color: white;
+  font-weight: 700;
+  align-items: start;
+}
+
+/* .column-container:not(#home-container) .home-nav { */
+.home-nav:has(.home-button) {
+  left: 0.5em;
+}
+
+.home-nav .nav-disease,
+.home-nav .nav-case-count {
+  font-size: 1.2em;
+}
+
+/* .column-container .home-nav .nav-selection {
+  opacity: 0.5;
+} */
+
+.home-nav .top-row {
+  display: flex;
+  p {font-size: 1.2em;}
+}
+
+#app-title {
+  font-weight: 400;
+  color: #aaccd5;
+  display: flex;
+  &::after {
+    content: '';
+    display: block;
+    width: 1px;
+    height: 100%;
+    background: #35656c;
+    margin: 0 0.375em;
+  }
+}
+
+.home-button {
+  padding-block: 0.1em;
+}
+
+.home-button .icon {
+  --url: url("assets/icons/back-g1.svg");
+  --color: #AACCD5;
+  height: 1em;
+  width: auto;
+  aspect-ratio: 5.71 / 10;
+}
+
+.panel.header {
+  font-weight: 400;
+  font-size: 150%;
+}
+
+.map-svg-container svg path.highlight {
+    stroke-width: 2.5;
+}
+
+.map-svg-container {
+    border: 1px solid #9EAEB3;
+}
+
+.map-svg-container svg {
+    display: block;
+}
+
+.map-svg-container svg path {
+  opacity: 1.0;
+  transition: opacity 0.3s;
+}
+
+.map-svg-container svg path.back {
+  opacity: 0.4;
+}
+
+.map-details {
+    display: grid;
+    grid-template-columns: 2fr 3fr 5em;
+    background-color: white;
+    color: #77868B;
+    /* font-size: 65%; */
+    font-size: 0.7rem;
+    font-weight: bold;
+    width: 100%;
+    height: 100%;
+    max-height: 100%;
+    overflow-y: auto;
+}
+
+.map-column {
+    background-color: white;
+}
+
+.map-column .back {
+  opacity: 0.3;
+}
+
+.map-column .column-values > * {
+    transition: opacity 0.15s;
+}
+
+.map-details-entry {
+    border-bottom: 1px solid #C0C8CB;
+    padding: 0.5em 1em;
+    text-align: left;
+    border-right: 1px solid #DFE3E4
+}
+
+.map-details-toggle {
+    border-bottom: 1px solid #C0C8CB;
+    padding: 0.5em;
+    text-align: center;
+}
+
+.column-values {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+}
+
+.map-column.state > * {
+  padding-left: 2em;
+}
+
+.map-column.counts .map-details-toggle, 
+.map-column.counts .column-value {
+  padding-right: 2em;
+  text-align: right;
+}
+
+.bar-container {
+  margin: 0 1em;
+}
+
+/* Styling for each bar */
+.bar {
+  height: 1em;
+  /* background-color: #4CAF50; */
+  border: 1px solid white;
+  text-align: center;
+  color: white;
+  transition: width 0.3s ease-in-out; /* Smooth transition for updates */
+}
+
+.column-identifier {
+  display: flex;
+  flex-direction: row;
+  height: 1em;
+  cursor: pointer;
+}
+
+.column-index {
+  font-feature-settings: "tnum";
+  width: 2em;
+  text-align: left;
+  font-weight: 500;
+}
+
+.column-value {
+  font-weight: 500;
+  line-height: 0.9;
+  height: 1em;
+}
+
+.map-column.counts .column-value {
+  font-weight: 600;
+  font-feature-settings: "tnum";
+}
+
+
+
+.coordinate-readout {
+  position: absolute;
+  text-align: left;
+  bottom: 0.1em;
+  right: 0.1em;
+  color: white;
+  font-weight: 500;
+  /* width: 99.2%; */
+  padding: 0.2em 0.5em;
+  z-index: 1;
+  font-size: 0.7rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25em;
+
+  left: 0;
+  bottom: 0;
+  height: 5em;
+  width: 100%;
+  background: #6b8589;
+  opacity: 1;
+  transition: opacity 0.3s ease-out;
+
+  .num {
+    font-weight: 700;
+  }
+  .category {
+    font-weight: 400;
+  }
+}
+
+.coordinate-readout.hiding {
+  opacity: 0;
+}
+
+
+/* 
+
+
+███████╗██╗███╗   ██╗ ██████╗ ██╗     ███████╗
+██╔════╝██║████╗  ██║██╔════╝ ██║     ██╔════╝
+███████╗██║██╔██╗ ██║██║  ███╗██║     █████╗  
+╚════██║██║██║╚██╗██║██║   ██║██║     ██╔══╝  
+███████║██║██║ ╚████║╚██████╔╝███████╗███████╗
+╚══════╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝╚══════╝
+
+*/
+
+body.single .single-container {
+    display: flex;
+}
+
+body.single #top-nav {
+    display: block;
+}
+
+.single-container > .flex-col {
+  width: 100%;
+}
+
+
+.single-container .main {
+    /* padding: 2% 2% 4%; */
+    padding: 1% 2%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    gap: 2.5%;
+}
+
+
+.single-container .group {
+    background-color: lightgray;
+    padding: 1.5em 0.5em;
+}
+
+.chart {
+    position: relative;
+
+    svg {
+        user-select: none;
+    }
+
+    rect {
+        fill: black;
+    }
+
+    text {
+        font: inherit;
+        fill: black;
+    }
+
+    &.has-highlight {
+
+        rect,
+        line {
+            opacity: 0.3;
+
+            &.highlight {
+                opacity: 1;
+            }
+        }
+    }
+}
+
+.chart-with-readout {
+    flex: 1;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+
+    .line-value {
+        font-weight: bold;
+        font-feature-settings: "tnum";
+    }
+}
+
+
+/* .treemap svg {
+  margin-top: 20px;
+} */
+
+.donut-chart {
+    .sector {
+        stroke: none;
+    }
+}
+
+.flat-donut-chart {
+  display: flex;
+  align-items: center;
+  padding: 0.5rem;
+  margin-top: -0.25rem;
+  .sector {
+      stroke: none;
+  }
+  g {
+    width: 100%;
+  }
+}
+
+.fd-readout {
+  position: absolute;
+  bottom: 0.5em;
+  left: 0.7em;
+  z-index: 1;
+  font-size: 0.7rem;
+  display: flex;
+  gap: 0.5em;
+  white-space: nowrap;
+  .num {
+    font-weight: 700;
+  }
+  .category {
+    font-weight: 400;
+  }
+}
+/* Why doesn't this work?: .no-data .fd-readout {display: none !important; opacity: 0 !important;} */
+
+/* CHECKBOX STYLES */
+
+input[type="checkbox"] {
+  /* start with default interface accent colors */
+  --bg: AccentColor;
+  --border: AccentColor;
+  appearance: none;
+  /* width: 1rem; */
+  width: 1em;
+  /* height: 1rem; */
+  height: 1em;
+  /* set the border color using a custom property */
+  border: 1px solid var(--border);
+  border-radius: 2px;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  /* do we want a specific unchecked background color here? */
+  background-color: transparent;
+  cursor: inherit;
+}
+input[type="checkbox"]:hover {
+  /* a light shade to indicate hover state */
+  background-color: color-mix(in lab, transparent 85%, var(--bg));
+}
+input[type="checkbox"]:checked {
+  /* set the background fill color using a custom property */
+  background-color: var(--bg);
+}
+label:has(input[type="checkbox"]:disabled) {
+  /* may want specific colors instead of opacity */
+  opacity: 0.6;
+  /* cursor: not-allowed; */
+  cursor: default;
+}
+input[type="checkbox"]:checked::after {
+  /* show checkmark */
+  content: "";
+  display: block;
+  position: absolute;
+  inset: -1px; /* to account for the border on the checkbox */
+  mask: url("assets/icons/checkmark-g2.svg");
+  mask-repeat: no-repeat;
+  mask-position: center center;
+  background-color: #FEFEFE;
+}
+
+input[type="radio"] {
+  appearance: none;
+  width: 0;
+  height: 0;
+  margin: 0;
+}
+.toggle-title {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.8em;
+  text-transform: uppercase;
+  color: #ababab;
+}
+.toggle-title:hover {color: #777;}
+input[type="radio"]:checked + .toggle-title {
+  color: #3d3d3d;
+  pointer-events: none;
+}
+#salmonella-toggleblock-maps-options form.radio {
+  position: absolute;
+  z-index: 1;
+  padding-top: 0.5em;
+  padding-left: 0.5em;
+  .toggle-title {
+    color: #4f7e86;
+    padding: 0.25em 0.5em;
+  }
+  input[type="radio"]:checked + .toggle-title {
+    color: #fff;
+    background-color: #789397;
+  }
+}
+
+
+/* HISTOGRAM */
+
+.histogram {
+  display: grid;
+  grid-auto-columns: minmax(0, 1fr);
+  grid-auto-flow: column;
+  align-items: flex-end;
+  flex-wrap: nowrap;
+  height: 100%;
+  padding: 2% 2% 0;
+}
+
+.histogram .column-wrap {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  position: relative;
+}
+
+.histogram .bar-wrap {
+  flex-grow: 1;
+  position: relative;  
+}
+
+.histogram .bar {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+
+.histogram .bar-readout {
+  height: 2.5em;
+  text-align: center;
+  font-weight: 700;
+  font-size: 0.875em;
+  user-select: none;
+  pointer-events: none;
+}
+
+.histogram .value {
+  display: block;
+}
+
+.histogram .count {
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.histogram .column-wrap:hover .count {
+  opacity: 1;
+}
+
+
+.histogram .no-data {
+  display: none;
+}
+
+.histogram.no-data {
+  display: block;
+}
+.histogram.no-data .no-data {
+  display: block;
+}
+.histogram.no-data .bar-wrap {
+  display: none;
+}
+
+.panel-small.histogram {
+  padding: 1.25em 4em 0 0;
+  .bar-readout {
+    height: 1.25em;
+    font-size: 0.75em;
+  }
+  .count {
+    position: absolute;
+    background-color: #fff;
+    padding: 0 .25em;
+    bottom: 0;
+    left: 100%;
+    z-index: 10;
+    &::after {
+      content: 'matches';
+      margin-left: .25em;
+    }
+  }
+}
+
+
+/* LEADERBOARD */
+
+.leaderboard {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  padding: 2em .5em .5em;
+}
+
+.leaderboard-bar-wrap {
+  display: inline-block;
+  margin-block: 0.1em;
+  height: 1.15em;
+}
+
+.leaderboard .bar {
+  display: inline-block;
+}
+
+.value
+
+.value-addl {
+  display: inline-block;
+  padding-left: 0.5rem;
+  vertical-align: top;
+  font-size: 0.5rem;
+  font-weight: 700;
+}
+
+.value-addl-readout {
+  position: absolute;
+  top: -0rem; 
+  right: 0;
+  opacity: 0;
+  pointer-events: none;
+  transition: opacity 0.15s;
+  background-color: white;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.6rem;
+}
+
+.value-addl:hover .value-addl-readout {
+  opacity: 0.97;
+} 
+
+
+.block .expander {
+  position: absolute;
+  top: 0.25em;
+  right: 0.5em;
+  z-index: 1;
+  font-weight: 500;
+  cursor: pointer;
+  color: #bdbdbd;
+}
+
+.block.expanded .expander .icon{
+  --url: url("assets/icons/dismiss-g1.svg");
+}
+
+
+.expander .icon {
+  --url: url("assets/icons/expand-g1.svg");
+}
+
+
+.block.expanded {
+  position: absolute;
+  aspect-ratio: auto; 
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+}
+
+.block.expanded-col {
+  flex-direction: column !important;
+}
+
+.block.expanded-row {
+  flex-direction: row !important;
+}
+
+.block.expanded .treemap {
+  width: 100%;
+  height: auto;
+}
+
+
+
+
+.multibars > div canvas {
+  border: solid 1px white;
+}
+
+.multibars > div.pinned canvas {
+  border-color: black;
+}
+
+
+
+.text-tally {
+  &::after { /* fade-out effect to the right for horizontal scroll */
+    position: absolute;
+    z-index: 10;
+    right: 0;
+    bottom: 0;
+    width: 2em;
+    height: 2em;
+    background: linear-gradient(90deg, transparent, #ffffffb5);
+    content: '';
+    pointer-events: none;
+  }
+}
+.text-tally-header {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  /* border: 1px solid transparent;
+  border-bottom: none; */
+}
+.text-tally-header .field-name {
+  flex-grow: 1;
+  color: #8c8c8c !important;
+  text-transform: uppercase;
+  font-size: 0.8em;
+  padding: .5em .5em .25em;
+  position: relative;
+}
+.text-tally-header .count-readout {
+  font-size: 0.875em;
+  font-weight: 600;
+  padding: 0 .25em;
+}
+
+.text-tally-header .title-detail {
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  padding: .25em .5em;
+  font-size: 0.875em;
+  font-weight: 700;
+  background-color: white;
+  text-transform: none;
+  color: #777777;
+  opacity: 0;
+  transition: opacity 0.15s;
+  pointer-events: none;
+  width: 100%;
+}
+
+.text-tally-header:hover {
+  .title-detail {
+    /* border: 1px solid black; */
+    opacity: 1;
+  }
+  /* .titles {
+    background-color: #fff;
+  } */
+}
+
+.text-tally .words {
+  position: relative;
+  white-space: nowrap;
+  font-size: 0.875em;
+  font-weight: 700;
+  padding-left: 0.25em;
+  height:1.875em;
+  margin-top: -0.25em;
+  overflow: auto hidden;
+  &::-webkit-scrollbar {
+    height: 2px;
+  }
+  &::-webkit-scrollbar-track {
+    background-color: #fff;
+  }
+  &::-webkit-scrollbar-thumb {
+    /* background: #eee; */
+    background: linear-gradient(90deg, transparent, #deeef0 10%, #deeef0 90%, transparent);
+  }
+}
+
+.text-tally button {
+  padding: 0 0.25em;
+  &:hover {
+    background-color: #eee;
+  }
+}
+
+.text-tally button + button {
+  border-left: solid 1px #ccc;
+}
+
+
+.block .radio {
+  background-color: transparent;
+  position: absolute;
+  z-index: 10;
+  /* padding: 0.2em 0.6em; */
+}
+
+
+/* 
+
+
+
+██╗   ██╗███╗   ██╗██╗  ██╗███╗   ██╗ ██████╗ ██╗    ██╗███╗   ██╗███████╗
+██║   ██║████╗  ██║██║ ██╔╝████╗  ██║██╔═══██╗██║    ██║████╗  ██║██╔════╝
+██║   ██║██╔██╗ ██║█████╔╝ ██╔██╗ ██║██║   ██║██║ █╗ ██║██╔██╗ ██║███████╗
+██║   ██║██║╚██╗██║██╔═██╗ ██║╚██╗██║██║   ██║██║███╗██║██║╚██╗██║╚════██║
+╚██████╔╝██║ ╚████║██║  ██╗██║ ╚████║╚██████╔╝╚███╔███╔╝██║ ╚████║███████║
+ ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝╚══════╝
+
+
+
+*/
+
+#unknowns-container .flex-col {
+  width: 100%;
+  height: 100%;
+}
+
+#unknowns-table-container {
+  width: 100%;
+  height: 97%;
+}
+
+#unknowns-container h2 {
+  height: 3%;
+}

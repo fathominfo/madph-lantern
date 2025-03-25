@@ -1,0 +1,26 @@
+*~
+.DS_Store
+\#*\#
+*.log
+
+config.json
+
+# ignore the /data folders for our locations
+**/data
+# ignore the preproc files in the input folders
+**/preprocess/input
+
+/22*
+/24*
+/25*
+/archive
+/repos
+_*
+
+
+.vscode
+
+# copied for reference, but not needed in the project
+palette.json 
+
+venv

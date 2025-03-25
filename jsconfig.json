@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6"
+  },
+  "exclude": [ "node_modules" ]
+  /*
+  "include": [
+    "libs/icons.js",
+    "libs/moment.js",
+    "libs/weather.js",
+    "libs/p5.min.js",
+  ]
+  */
+}
