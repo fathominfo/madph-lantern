@@ -8,7 +8,6 @@ let baseValues;
 
 let wordTotals = {};
 let recordsWithTextCount = 0;
-    
 
 addEventListener('message', event=>{
   const payload = event.data;
@@ -57,7 +56,6 @@ const initRecords = (property, records)=>{
       if (words.length > 0) {
         words.sort();
         words.forEach(w=>incrementDict(w, wordTotals));
-        recordsWithTextCount++;
       }
     }
     return words;
@@ -67,11 +65,14 @@ const initRecords = (property, records)=>{
     if (count < MIN_WORD_COUNT) {
       // console.debug(`excluding ${word} with count ${count} < ${MIN_WORD_COUNT}`);
       delete wordTotals[word];
-    }
+    } 
   });
   baseValues = Object.entries(wordTotals);
   for (let i = 0; i < inputs.length; i++) {
     inputs[i] = inputs[i].filter(w=>wordTotals[w] >= MIN_WORD_COUNT);
+    if (inputs[i].length > 0) {
+      recordsWithTextCount++;
+    }
   }
   postMessage({kind: 'init', baseValues: baseValues})
 }
@@ -145,7 +146,7 @@ const appendBaselineDiff = (item, baseLine, recCount)=>{
   const baseCount = baseLine[word];
   item.push(count/baseCount);
   item.push(count/recCount);
-  item.push(baseCount/Object.keys(baseLine));
+  item.push(baseCount/recordsWithTextCount);
 };
 
 const sortByBaselineDiff = (a, b)=>{

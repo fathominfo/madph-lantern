@@ -92,9 +92,10 @@ export class Leaderboard extends ValueToggle {
     counts.sort((a, b)=>b[1] - a[1]);
     this.div.innerHTML = '';
     counts.forEach(([label, count]) => {
-      const fraction = max > 0 ? count / max : 0;
+      const fraction = max > 0 && count > 0 ? count / max : 0;
       const barDiv = this.barLookup[label];
       barDiv.style.width = `${fraction * 100}%`;
+      barDiv.style.borderWidth = count === 0 ? 0 : '1px';
       this.div.appendChild(this.rowLookup[label]);
     });
   }

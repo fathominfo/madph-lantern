@@ -131,14 +131,8 @@ export class FlatDonut {
   }
 
   drawChart() {
-      const pie = this.pieGenerator(this.tally);
-
-      const total = this.tally.reduce((acc, curr) => acc + curr[1], 0);
-      const widthScale = d3.scaleLinear()
-        .domain([0, total])
-        .range([0, this.width]);
-
-      const totalCount = d3.sum(pie, d => d.value);
+      const pie = this.pieGenerator(this.tally).filter(({value})=>value > 0);
+      const TAU = Math.PI * 2;
       const g = this.svg.append("g")
 
       const barHeight = 18;
@@ -149,9 +143,12 @@ export class FlatDonut {
         .join("rect")
         .classed("sector", true)
         .style("fill", d=>this.palette.getFill(d.data[0]))
-        .attr("x", (d, i) => i === 0 || totalCount === 0 ? 0 : d3.sum(pie.slice(0, i), d => d.value) / totalCount * this.width)
+        .attr("width", d => {
+          const w = (d.endAngle - d.startAngle) / TAU * this.width;
+          return w > 1 ? w - barSpacing : w;
+        })
+        .attr("x", d => d.startAngle / TAU * this.width)
         .attr("y", (_, i) => i === 0 ? (this.height - 1.5*barHeight)/2 : (this.height - barHeight)/2)
-        .attr("width", d => d.value === 0 ? 0 : Math.max(0, widthScale(d.value) - barSpacing))
         .attr("height", (d, i) => i === 0 ? 1.5*barHeight : barHeight)
         .on("click", (_, d)=>{
           if (d.data[0] === 'other') {return;}
