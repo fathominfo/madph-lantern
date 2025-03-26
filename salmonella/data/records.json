@@ -6,7 +6,7 @@
     "allele_codes": "0",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "rawmilk"
@@ -54,7 +54,7 @@
     "allele_codes": "1",
     "animal_details": "veniam non cillum ut mollit nisi veniam sunt aute dolor sit veniam sint sint magna ex dolor duis culpa dolor in veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -153,7 +153,7 @@
     "age": 33.74333445893192,
     "allele_codes": "3",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -428,7 +428,7 @@
     "age": 71.34949872473237,
     "allele_codes": "9",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -485,7 +485,7 @@
     "age": 47.03945183676747,
     "allele_codes": "10",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "rawmilk",
@@ -623,7 +623,7 @@
     "allele_codes": "13",
     "animal_details": "consectetur veniam enim nostrud excepteur amet ut dolor qui ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 15,
@@ -720,7 +720,7 @@
     "age": 42.069878756155745,
     "allele_codes": "15",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -767,7 +767,7 @@
     "age": 25.13819274884134,
     "allele_codes": "16",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "milk pasteurized"
     ],
@@ -822,7 +822,7 @@
     "allele_codes": "17",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 10,
@@ -871,7 +871,7 @@
     "allele_codes": "18",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -918,7 +918,7 @@
     "age": 43.66966543755658,
     "allele_codes": "19",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -1061,7 +1061,7 @@
     "age": 71.97035007895131,
     "allele_codes": "22",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -1155,7 +1155,7 @@
     "allele_codes": "24",
     "animal_details": "dolor nisi veniam deserunt sint veniam nostrud veniam mollit ut sint tempor aliqua ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk",
       "milk pasteurized"
@@ -1309,7 +1309,7 @@
     "allele_codes": "27",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -1361,7 +1361,7 @@
     "allele_codes": "28",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "organ meat",
       "processed meat",
       "rawmilk",
@@ -1417,7 +1417,7 @@
     "age": 56.47366644302234,
     "allele_codes": "29",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -1465,7 +1465,7 @@
     "age": 15.870326736296517,
     "allele_codes": "30",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 17,
@@ -1595,7 +1595,7 @@
     "animal_details": "eu adipiscing aliquip sint exercitation ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "seafood"
@@ -1701,7 +1701,7 @@
     "allele_codes": "35",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "rawcheese"
     ],
@@ -1829,7 +1829,7 @@
     "allele_codes": "38",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -1924,7 +1924,7 @@
     "age": 20.343965680296687,
     "allele_codes": "40",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -2028,7 +2028,7 @@
     "age": 74.65809399291163,
     "allele_codes": "42",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -2120,7 +2120,7 @@
     "allele_codes": "44",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "milk pasteurized"
     ],
@@ -2467,7 +2467,7 @@
     "age": 72.27679931229625,
     "allele_codes": "52",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese"
     ],
@@ -2512,7 +2512,7 @@
     "allele_codes": "53",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "milk pasteurized",
@@ -2806,7 +2806,7 @@
     "age": 14.720824640393214,
     "allele_codes": "59",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 23,
@@ -2900,7 +2900,7 @@
     "age": 18.463571207005636,
     "allele_codes": "61",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawmilk"
     ],
@@ -3077,7 +3077,7 @@
     "allele_codes": "65",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 34,
@@ -3300,7 +3300,7 @@
     "age": 42.55871862220349,
     "allele_codes": "70",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -3394,7 +3394,7 @@
     "age": 59.035480463376615,
     "allele_codes": "72",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "milk pasteurized"
     ],
@@ -3448,7 +3448,7 @@
     "age": 49.318489462787596,
     "allele_codes": "73",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "rawcheese",
@@ -3732,7 +3732,7 @@
     "age": 39.01057123092899,
     "allele_codes": "79",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese"
     ],
@@ -3784,7 +3784,7 @@
     "age": 36.32691508716908,
     "allele_codes": "80",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -3826,7 +3826,7 @@
     "age": 27.717344423531802,
     "allele_codes": "81",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -3915,7 +3915,7 @@
     "animal_details": "veniam cillum aute ullamco do sint sit occaecat veniam ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -4149,7 +4149,7 @@
     "age": 61.76518953123906,
     "allele_codes": "88",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -4193,7 +4193,7 @@
     "age": 11.051916781767812,
     "allele_codes": "89",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "seafood"
@@ -4383,7 +4383,7 @@
     "allele_codes": "93",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -4464,7 +4464,7 @@
     "age": 24.11621897047901,
     "allele_codes": "95",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -4688,7 +4688,7 @@
     "age": 60.49020082027677,
     "allele_codes": "100",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -4865,7 +4865,7 @@
     "allele_codes": "104",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -4966,7 +4966,7 @@
     "age": 63.17216457266759,
     "allele_codes": "106",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "milk pasteurized"
@@ -5100,7 +5100,7 @@
     "age": 72.44519966663823,
     "allele_codes": "109",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 37,
@@ -5144,7 +5144,7 @@
     "allele_codes": "110",
     "animal_details": "mollit sint ad ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -5198,7 +5198,7 @@
     "allele_codes": "111",
     "animal_details": "proident cillum duis mollit sint sint sint ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -5331,7 +5331,7 @@
     "age": 33.74761456085267,
     "allele_codes": "114",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 41,
@@ -5418,7 +5418,7 @@
     "age": 29.07739339549238,
     "allele_codes": "116",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -5840,7 +5840,7 @@
     "animal_details": "sint magna dolor sint laboris veniam labore ex cillum anim veniam anim ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "milk pasteurized"
     ],
@@ -5928,7 +5928,7 @@
     "age": 68.18467901607588,
     "allele_codes": "127",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -6012,7 +6012,7 @@
     "age": 51.70447674301964,
     "allele_codes": "129",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -6100,7 +6100,7 @@
     "allele_codes": "131",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -6142,7 +6142,7 @@
     "age": 65.90740100472163,
     "allele_codes": "132",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "eggs",
@@ -6197,7 +6197,7 @@
     "age": 46.13921499202924,
     "allele_codes": "133",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "turkey"
     ],
     "city": 0,
@@ -6318,7 +6318,7 @@
     "age": 51.21885055703609,
     "allele_codes": "136",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -6366,7 +6366,7 @@
     "age": 25.32945621516723,
     "allele_codes": "137",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 52,
@@ -6556,7 +6556,7 @@
     "allele_codes": "141",
     "animal_details": "dolor mollit tempor in consectetur elit veniam in veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "milk pasteurized"
@@ -6653,7 +6653,7 @@
     "age": 51.95232896305598,
     "allele_codes": "143",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "seafood",
       "seafood"
@@ -6747,7 +6747,7 @@
     "age": 52.32599729239847,
     "allele_codes": "145",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawcheese"
@@ -7152,7 +7152,7 @@
     "allele_codes": "154",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 57,
@@ -7252,7 +7252,7 @@
     "allele_codes": "156",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -7454,7 +7454,7 @@
     "age": 46.744896224638666,
     "allele_codes": "160",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "milk pasteurized",
@@ -7695,7 +7695,7 @@
     "age": 39.40771444287029,
     "allele_codes": "165",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -7745,7 +7745,7 @@
     "allele_codes": "166",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -7795,7 +7795,7 @@
     "animal_details": "est n veniam aliqua eu elit sint dolor do cupidatat quis sint est consectetur mollit veniam pariatur ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -8204,7 +8204,7 @@
     "age": 64.80314143590391,
     "allele_codes": "176",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "organ meat",
       "eggs",
       "rawmilk",
@@ -8301,7 +8301,7 @@
     "age": 19.204219970869296,
     "allele_codes": "178",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -8385,7 +8385,7 @@
     "age": 27.4176101949444,
     "allele_codes": "180",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -8562,7 +8562,7 @@
     "allele_codes": "184",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -8610,7 +8610,7 @@
     "age": 69.67661000173729,
     "allele_codes": "185",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -9052,7 +9052,7 @@
     "allele_codes": "194",
     "animal_details": "enim sint commodo aliquip ex consequat ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -9095,7 +9095,7 @@
     "animal_details": "incididunt quis qui mollit est nostrud mollit duis ex qui cupidatat veniam culpa mollit dolor tempor laborum ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "seafood",
       "rawmilk",
@@ -9147,7 +9147,7 @@
     "age": 27.953024202912236,
     "allele_codes": "196",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -9195,7 +9195,7 @@
     "age": 50.46894308868963,
     "allele_codes": "197",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawmilk",
       "seafood"
@@ -9701,7 +9701,7 @@
     "allele_codes": "208",
     "animal_details": "veniam sit anim anim magna lorem sunt lorem mollit ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 66,
@@ -9784,7 +9784,7 @@
     "allele_codes": "210",
     "animal_details": "nostrud qui elit non commodo pariatur sint cupidatat reprehenderit sint tempor veniam laborum quis ea pariatur sint veniam mollit sed dolore proident do dolore labore velit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese",
       "rawmilk"
@@ -9831,7 +9831,7 @@
     "age": 70.62710944031255,
     "allele_codes": "211",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -10019,7 +10019,7 @@
     "age": 62.412402590360166,
     "allele_codes": "215",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawcheese",
@@ -10112,7 +10112,7 @@
     "animal_details": "tempor culpa sit dolor officia ex ea occaecat quis anim officia aliquip pariatur veniam labore laborum exercitation ipsum ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -10165,7 +10165,7 @@
     "age": 58.903353095225974,
     "allele_codes": "218",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -10305,7 +10305,7 @@
     "age": 60.51840854473514,
     "allele_codes": "221",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -10393,7 +10393,7 @@
     "age": 69.71736036083391,
     "allele_codes": "223",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "rawcheese",
@@ -10594,7 +10594,7 @@
     "age": 53.410461322041904,
     "allele_codes": "227",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "milk pasteurized"
     ],
@@ -11193,7 +11193,7 @@
     "age": 62.48156068745109,
     "allele_codes": "240",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -11564,7 +11564,7 @@
     "age": 49.0425211410411,
     "allele_codes": "248",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -11601,7 +11601,7 @@
     "age": 70.01549852294681,
     "allele_codes": "249",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "milk pasteurized"
@@ -11648,7 +11648,7 @@
     "age": 67.73307725346123,
     "allele_codes": "250",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "milk pasteurized"
@@ -11701,7 +11701,7 @@
     "allele_codes": "251",
     "animal_details": "anim ea veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -11967,7 +11967,7 @@
     "age": 43.08948450593896,
     "allele_codes": "257",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -12056,7 +12056,7 @@
     "age": 50.02457883808733,
     "allele_codes": "259",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawcheese",
@@ -12235,7 +12235,7 @@
     "age": 20.4569529870343,
     "allele_codes": "263",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -12338,7 +12338,7 @@
     "allele_codes": "265",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -12394,7 +12394,7 @@
     "allele_codes": "266",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "seafood"
@@ -12481,7 +12481,7 @@
     "allele_codes": "268",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "milk pasteurized",
       "seafood"
@@ -12678,7 +12678,7 @@
     "age": 12.105635379240809,
     "allele_codes": "272",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -12778,7 +12778,7 @@
     "allele_codes": "274",
     "animal_details": "qui ipsum mollit adipiscing veniam ex dolor tempor laboris anim sint voluptate adipiscing ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -12868,7 +12868,7 @@
     "age": 13.403779941854832,
     "allele_codes": "276",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -12913,7 +12913,7 @@
     "allele_codes": "277",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -13093,7 +13093,7 @@
     "age": 72.63079635769617,
     "allele_codes": "281",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -13139,7 +13139,7 @@
     "allele_codes": "282",
     "animal_details": "laboris veniam ipsum sint pariatur cupidatat dolor veniam aliquip dolor adipiscing laborum nulla veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -13229,7 +13229,7 @@
     "allele_codes": "284",
     "animal_details": "laborum magna lorem cupidatat ex anim pariatur ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -13280,7 +13280,7 @@
     "age": 19.332592139195967,
     "allele_codes": "285",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawcheese",
@@ -13384,7 +13384,7 @@
     "age": 66.91801141173963,
     "allele_codes": "287",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawcheese",
@@ -13479,7 +13479,7 @@
     "age": 15.730554485115682,
     "allele_codes": "289",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -13527,7 +13527,7 @@
     "age": 62.27345550456646,
     "allele_codes": "290",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "rawmilk"
@@ -13815,7 +13815,7 @@
     "allele_codes": "296",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "rawmilk"
@@ -13869,7 +13869,7 @@
     "allele_codes": "297",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -13912,7 +13912,7 @@
     "age": 38.538247519999324,
     "allele_codes": "298",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -14091,7 +14091,7 @@
     "age": 37.6101103538509,
     "allele_codes": "302",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -14145,7 +14145,7 @@
     "allele_codes": "303",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawmilk"
@@ -14187,7 +14187,7 @@
     "age": 46.101212241329705,
     "allele_codes": "304",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -14238,7 +14238,7 @@
     "allele_codes": "305",
     "animal_details": "veniam commodo ut sint culpa dolor ut adipiscing consectetur ut cupidatat tempor non ex tempor consequat veniam ut adipiscing dolor veniam incididunt adipiscing ex cillum commodo ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "seafood"
@@ -14382,7 +14382,7 @@
     "age": 49.9330596697027,
     "allele_codes": "308",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -14558,7 +14558,7 @@
     "age": 42.71178227087714,
     "allele_codes": "312",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -14699,7 +14699,7 @@
     "age": 46.294775339380685,
     "allele_codes": "315",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -14779,7 +14779,7 @@
     "age": 67.5047361694825,
     "allele_codes": "317",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -14974,7 +14974,7 @@
     "age": 23.97175715555081,
     "allele_codes": "321",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 108,
@@ -15118,7 +15118,7 @@
     "age": 11.626616446962007,
     "allele_codes": "324",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -15163,7 +15163,7 @@
     "age": 29.863753610903682,
     "allele_codes": "325",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -15568,7 +15568,7 @@
     "age": 10.362997959762243,
     "allele_codes": "334",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat"
     ],
@@ -15662,7 +15662,7 @@
     "animal_details": "ipsum sint cupidatat pariatur tempor veniam veniam ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "turkey",
       "eggs"
     ],
@@ -15939,7 +15939,7 @@
     "age": 50.55138385716038,
     "allele_codes": "342",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -15978,7 +15978,7 @@
     "age": 64.96913482467221,
     "allele_codes": "343",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "rawmilk",
@@ -16120,7 +16120,7 @@
     "allele_codes": "346",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "milk pasteurized",
       "seafood"
@@ -16393,7 +16393,7 @@
     "age": 32.296373284895125,
     "allele_codes": "352",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawmilk",
@@ -16617,7 +16617,7 @@
     "age": 10.091350997985023,
     "allele_codes": "357",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -16705,7 +16705,7 @@
     "allele_codes": "359",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -16885,7 +16885,7 @@
     "age": 72.99835945704166,
     "allele_codes": "363",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawmilk"
     ],
@@ -16989,7 +16989,7 @@
     "age": 17.683871986985544,
     "allele_codes": "365",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawmilk"
@@ -17041,7 +17041,7 @@
     "age": 29.679101698986923,
     "allele_codes": "366",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -17142,7 +17142,7 @@
     "age": 39.616746084375464,
     "allele_codes": "368",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawmilk",
@@ -17231,7 +17231,7 @@
     "allele_codes": "370",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "dairy products",
@@ -17561,7 +17561,7 @@
     "age": 56.16528709258391,
     "allele_codes": "377",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -17609,7 +17609,7 @@
     "age": 11.740102786856166,
     "allele_codes": "378",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -17805,7 +17805,7 @@
     "age": 10.337556491949,
     "allele_codes": "382",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -17850,7 +17850,7 @@
     "allele_codes": "383",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawcheese"
@@ -17953,7 +17953,7 @@
     "age": 29.874822554314107,
     "allele_codes": "385",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -17999,7 +17999,7 @@
     "age": 36.38094703253873,
     "allele_codes": "386",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -18219,7 +18219,7 @@
     "age": 61.79929124024288,
     "allele_codes": "391",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -18306,7 +18306,7 @@
     "age": 23.54498496827707,
     "allele_codes": "393",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -18352,7 +18352,7 @@
     "age": 72.78880830466937,
     "allele_codes": "394",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 129,
@@ -18443,7 +18443,7 @@
     "allele_codes": "396",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -18693,7 +18693,7 @@
     "age": 10.937711881649204,
     "allele_codes": "402",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -19080,7 +19080,7 @@
     "allele_codes": "411",
     "animal_details": "veniam officia veniam minim do ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "rawmilk"
@@ -19320,7 +19320,7 @@
     "age": 35.397750939771726,
     "allele_codes": "416",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -19414,7 +19414,7 @@
     "age": 21.73042270671619,
     "allele_codes": "418",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "processed meat",
       "eggs",
@@ -19457,7 +19457,7 @@
     "age": 10.870091744901714,
     "allele_codes": "419",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawcheese"
@@ -19507,7 +19507,7 @@
     "allele_codes": "420",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -19597,7 +19597,7 @@
     "age": 20.46216461476727,
     "allele_codes": "422",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -20002,7 +20002,7 @@
     "age": 26.257784137394633,
     "allele_codes": "431",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 141,
@@ -20045,7 +20045,7 @@
     "age": 36.55434073776459,
     "allele_codes": "432",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawmilk"
@@ -20525,7 +20525,7 @@
     "allele_codes": "442",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -20570,7 +20570,7 @@
     "allele_codes": "443",
     "animal_details": "duis adipiscing veniam laborum lorem id dolor incididunt et n adipiscing mollit sint laboris quis ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -20614,7 +20614,7 @@
     "age": 24.990794714836493,
     "allele_codes": "444",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 141,
@@ -20972,7 +20972,7 @@
     "age": 27.83194563870009,
     "allele_codes": "451",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -21211,7 +21211,7 @@
     "allele_codes": "456",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk",
       "milk pasteurized"
@@ -21311,7 +21311,7 @@
     "age": 13.644027701476016,
     "allele_codes": "458",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -21358,7 +21358,7 @@
     "age": 48.46656751778419,
     "allele_codes": "459",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -21538,7 +21538,7 @@
     "age": 60.37084956709402,
     "allele_codes": "463",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -21631,7 +21631,7 @@
     "age": 22.221580971419655,
     "allele_codes": "465",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "seafood"
@@ -21723,7 +21723,7 @@
     "allele_codes": "467",
     "animal_details": "ex labore consectetur culpa veniam veniam tempor ex veniam veniam tempor ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -21822,7 +21822,7 @@
     "age": 57.41929823882471,
     "allele_codes": "469",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "milk pasteurized"
     ],
@@ -21961,7 +21961,7 @@
     "age": 19.47168833747228,
     "allele_codes": "472",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -22152,7 +22152,7 @@
     "allele_codes": "476",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk",
       "milk pasteurized"
@@ -22270,7 +22270,7 @@
     "age": 14.865742796035573,
     "allele_codes": "479",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -22314,7 +22314,7 @@
     "allele_codes": "480",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "rawcheese",
@@ -22507,7 +22507,7 @@
     "allele_codes": "484",
     "animal_details": "ut est veniam sint magna sit commodo dolor culpa cillum ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 157,
@@ -22746,7 +22746,7 @@
     "age": 74.87488942360706,
     "allele_codes": "489",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 157,
@@ -22788,7 +22788,7 @@
     "allele_codes": "490",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "rawcheese",
@@ -23009,7 +23009,7 @@
     "age": 57.526925779084415,
     "allele_codes": "495",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -23063,7 +23063,7 @@
     "age": 12.522120836008224,
     "allele_codes": "496",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -23113,7 +23113,7 @@
     "age": 36.60292585007012,
     "allele_codes": "497",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -23157,7 +23157,7 @@
     "age": 64.37342184792331,
     "allele_codes": "498",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -23253,7 +23253,7 @@
     "allele_codes": "500",
     "animal_details": "tempor et ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -23305,7 +23305,7 @@
     "age": 73.00412959743852,
     "allele_codes": "501",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -23341,7 +23341,7 @@
     "allele_codes": "502",
     "animal_details": "ex proident anim magna culpa veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -23388,7 +23388,7 @@
     "age": 70.20267984267475,
     "allele_codes": "503",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -23617,7 +23617,7 @@
     "allele_codes": "508",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products"
     ],
@@ -23815,7 +23815,7 @@
     "allele_codes": "512",
     "animal_details": "pariatur adipiscing ut labore nostrud dolor ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 170,
@@ -23991,7 +23991,7 @@
     "allele_codes": "516",
     "animal_details": "dolore veniam veniam cillum ad velit commodo ut veniam elit quis sint veniam aliqua mollit sint veniam labore cillum occaecat deserunt sint proident sint veniam mollit veniam sint officia officia id eu occaecat laborum quis ea nulla ea sit consequat dolor quis eu ex adipiscing ex n ut do qui ex anim ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese",
       "milk pasteurized"
@@ -24138,7 +24138,7 @@
     "allele_codes": "519",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "rawcheese"
@@ -24324,7 +24324,7 @@
     "age": 19.127052452855548,
     "allele_codes": "523",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "seafood",
@@ -24752,7 +24752,7 @@
     "age": 65.967608582163,
     "allele_codes": "532",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -24801,7 +24801,7 @@
     "age": 30.503582114396558,
     "allele_codes": "533",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "dairy products",
@@ -24953,7 +24953,7 @@
     "age": 32.27516513908414,
     "allele_codes": "536",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -25000,7 +25000,7 @@
     "age": 10.53558396929643,
     "allele_codes": "537",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 173,
@@ -25318,7 +25318,7 @@
     "age": 52.5099886854697,
     "allele_codes": "544",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -25369,7 +25369,7 @@
     "allele_codes": "545",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -25559,7 +25559,7 @@
     "allele_codes": "549",
     "animal_details": "incididunt dolor ex fugiat labore sint nisi dolore n veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -25763,7 +25763,7 @@
     "age": 62.211516773555175,
     "allele_codes": "553",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -26022,7 +26022,7 @@
     "age": 36.32629316024729,
     "allele_codes": "559",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "dairy products",
@@ -26236,7 +26236,7 @@
     "age": 18.934003258891348,
     "allele_codes": "563",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -26281,7 +26281,7 @@
     "allele_codes": "564",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawmilk",
@@ -26419,7 +26419,7 @@
     "age": 44.31845308148465,
     "allele_codes": "567",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -26608,7 +26608,7 @@
     "age": 38.46817630969979,
     "allele_codes": "571",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "seafood"
@@ -26656,7 +26656,7 @@
     "allele_codes": "572",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk",
       "milk pasteurized"
@@ -26702,7 +26702,7 @@
     "age": 29.295345613390484,
     "allele_codes": "573",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 188,
@@ -26741,7 +26741,7 @@
     "allele_codes": "574",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -26829,7 +26829,7 @@
     "age": 59.20245843837091,
     "allele_codes": "576",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -26965,7 +26965,7 @@
     "age": 53.805864542200304,
     "allele_codes": "579",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawcheese",
@@ -27113,7 +27113,7 @@
     "age": 24.467839213041014,
     "allele_codes": "582",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -27243,7 +27243,7 @@
     "age": 70.60756349381461,
     "allele_codes": "585",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 194,
@@ -27381,7 +27381,7 @@
     "age": 46.729216922971204,
     "allele_codes": "588",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -27425,7 +27425,7 @@
     "allele_codes": "589",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -27465,7 +27465,7 @@
     "allele_codes": "590",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "milk pasteurized"
@@ -27549,7 +27549,7 @@
     "age": 33.209560010591346,
     "allele_codes": "592",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -27894,7 +27894,7 @@
     "allele_codes": "600",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -28069,7 +28069,7 @@
     "allele_codes": "604",
     "animal_details": "adipiscing mollit ut fugiat mollit veniam cillum dolor mollit est ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "egg foods",
@@ -28123,7 +28123,7 @@
     "age": 41.911760608675706,
     "allele_codes": "605",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -28390,7 +28390,7 @@
     "age": 31.977204185040694,
     "allele_codes": "611",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "eggs"
     ],
@@ -28662,7 +28662,7 @@
     "age": 28.773937303491863,
     "allele_codes": "617",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -28708,7 +28708,7 @@
     "age": 67.72926137037494,
     "allele_codes": "618",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "processed meat",
       "seafood",
@@ -29255,7 +29255,7 @@
     "allele_codes": "630",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -29453,7 +29453,7 @@
     "age": 29.560951885300128,
     "allele_codes": "634",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawmilk"
@@ -29592,7 +29592,7 @@
     "age": 50.471762153507896,
     "allele_codes": "637",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -29636,7 +29636,7 @@
     "age": 37.16084181000285,
     "allele_codes": "638",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -29781,7 +29781,7 @@
     "age": 66.79427331519241,
     "allele_codes": "641",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "dairy products",
@@ -29831,7 +29831,7 @@
     "allele_codes": "642",
     "animal_details": "aliqua aliquip sint veniam dolore veniam ea ex sint in ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "egg foods",
       "rawmilk"
@@ -30125,7 +30125,7 @@
     "allele_codes": "648",
     "animal_details": "veniam nulla reprehenderit lorem sint veniam ut tempor lorem ut ea ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "rawcheese"
@@ -30221,7 +30221,7 @@
     "allele_codes": "650",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese",
       "milk pasteurized"
     ],
@@ -30504,7 +30504,7 @@
     "age": 22.762030740220695,
     "allele_codes": "656",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -30837,7 +30837,7 @@
     "age": 48.60679009242616,
     "allele_codes": "663",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -30887,7 +30887,7 @@
     "age": 64.44082745311914,
     "allele_codes": "664",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -30940,7 +30940,7 @@
     "age": 68.87951793142805,
     "allele_codes": "665",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawmilk",
       "milk pasteurized"
@@ -31102,7 +31102,7 @@
     "allele_codes": "668",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 218,
@@ -31334,7 +31334,7 @@
     "animal_details": "est aliqua cillum velit cillum est veniam ex consectetur ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "dairy products",
@@ -31391,7 +31391,7 @@
     "age": 53.36059088972801,
     "allele_codes": "674",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "milk pasteurized"
@@ -31489,7 +31489,7 @@
     "allele_codes": "676",
     "animal_details": "ex id proident sint ut occaecat veniam veniam tempor ut magna ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -31826,7 +31826,7 @@
     "animal_details": "ex veniam exercitation ",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 220,
@@ -31866,7 +31866,7 @@
     "animal_details": "veniam aute ad dolor veniam dolor ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -32248,7 +32248,7 @@
     "age": 27.53107609622136,
     "allele_codes": "693",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -32418,7 +32418,7 @@
     "age": 12.353988461774811,
     "allele_codes": "697",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -32462,7 +32462,7 @@
     "age": 38.12216531319336,
     "allele_codes": "698",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -32782,7 +32782,7 @@
     "age": 46.76652801336168,
     "allele_codes": "705",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "processed meat"
     ],
@@ -32878,7 +32878,7 @@
     "age": 19.846370522883845,
     "allele_codes": "707",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -33114,7 +33114,7 @@
     "allele_codes": "712",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "seafood",
       "seafood"
@@ -33539,7 +33539,7 @@
     "age": 66.51423592467754,
     "allele_codes": "722",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -33586,7 +33586,7 @@
     "allele_codes": "723",
     "animal_details": "labore veniam veniam dolor adipiscing excepteur veniam ad deserunt ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -33691,7 +33691,7 @@
     "age": 18.315888148778875,
     "allele_codes": "725",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -33871,7 +33871,7 @@
     "age": 70.07577297599708,
     "allele_codes": "729",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "seafood",
@@ -33923,7 +33923,7 @@
     "age": 21.525332226572566,
     "allele_codes": "730",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawcheese",
@@ -34018,7 +34018,7 @@
     "allele_codes": "732",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -34206,7 +34206,7 @@
     "age": 24.26858724811115,
     "allele_codes": "736",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -34337,7 +34337,7 @@
     "animal_details": "n cupidatat cupidatat tempor minim ut mollit sint sed labore sunt dolor dolore ex veniam cillum adipiscing cupidatat ex n ex pariatur pariatur quis ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -34521,7 +34521,7 @@
     "allele_codes": "743",
     "animal_details": "labore sint veniam sit veniam veniam et laborum cupidatat ex ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 244,
@@ -34609,7 +34609,7 @@
     "allele_codes": "745",
     "animal_details": "occaecat tempor elit consectetur mollit exercitation veniam lorem cillum incididunt adipiscing veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -34694,7 +34694,7 @@
     "age": 72.2012423072417,
     "allele_codes": "747",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -34878,7 +34878,7 @@
     "age": 44.63150225479254,
     "allele_codes": "751",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 237,
@@ -34916,7 +34916,7 @@
     "age": 33.363612033542644,
     "allele_codes": "752",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -35221,7 +35221,7 @@
     "age": 19.19572108167631,
     "allele_codes": "759",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "rawmilk",
@@ -35552,7 +35552,7 @@
     "allele_codes": "766",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "meat other",
       "milk pasteurized"
     ],
@@ -35691,7 +35691,7 @@
     "age": 49.07251163651292,
     "allele_codes": "769",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "eggs"
@@ -35835,7 +35835,7 @@
     "allele_codes": "772",
     "animal_details": "id laboris mollit sed sint non adipiscing ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -36018,7 +36018,7 @@
     "age": 15.06591874234236,
     "allele_codes": "776",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawcheese",
@@ -36119,7 +36119,7 @@
     "allele_codes": "778",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -36172,7 +36172,7 @@
     "age": 51.106625844015014,
     "allele_codes": "779",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "dairy products",
@@ -36322,7 +36322,7 @@
     "age": 57.67481106493795,
     "allele_codes": "782",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -36370,7 +36370,7 @@
     "age": 31.294780313515158,
     "allele_codes": "783",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -36582,7 +36582,7 @@
     "age": 14.88738291361723,
     "allele_codes": "788",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -36777,7 +36777,7 @@
     "allele_codes": "792",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "rawmilk",
       "milk pasteurized",
@@ -37235,7 +37235,7 @@
     "allele_codes": "802",
     "animal_details": "mollit adipiscing consectetur occaecat ad n in veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -37375,7 +37375,7 @@
     "age": 37.8831841352821,
     "allele_codes": "805",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -37551,7 +37551,7 @@
     "age": 66.24352966291576,
     "allele_codes": "809",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk",
       "milk pasteurized"
@@ -37601,7 +37601,7 @@
     "allele_codes": "810",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "milk pasteurized"
@@ -37651,7 +37651,7 @@
     "age": 47.26615561505984,
     "allele_codes": "811",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -37742,7 +37742,7 @@
     "age": 44.049709757945166,
     "allele_codes": "813",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -37975,7 +37975,7 @@
     "age": 53.999384056162945,
     "allele_codes": "818",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "rawcheese",
@@ -38354,7 +38354,7 @@
     "allele_codes": "826",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -38400,7 +38400,7 @@
     "allele_codes": "827",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "milk pasteurized"
@@ -38518,7 +38518,7 @@
     "age": 41.80276471352043,
     "allele_codes": "830",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "milk pasteurized"
@@ -38707,7 +38707,7 @@
     "age": 39.885513393757314,
     "allele_codes": "834",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -38842,7 +38842,7 @@
     "age": 18.25829805588972,
     "allele_codes": "837",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -38884,7 +38884,7 @@
     "age": 15.25683903948042,
     "allele_codes": "838",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 267,
@@ -39056,7 +39056,7 @@
     "allele_codes": "842",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "rawmilk"
@@ -39149,7 +39149,7 @@
     "age": 53.39093460133497,
     "allele_codes": "844",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "milk pasteurized",
@@ -39255,7 +39255,7 @@
     "allele_codes": "846",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -39303,7 +39303,7 @@
     "age": 34.80397197823079,
     "allele_codes": "847",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -39398,7 +39398,7 @@
     "allele_codes": "849",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "organ meat"
     ],
     "city": 0,
@@ -39528,7 +39528,7 @@
     "age": 41.01011866387405,
     "allele_codes": "852",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "pork",
       "dairy products",
@@ -39582,7 +39582,7 @@
     "allele_codes": "853",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 275,
@@ -39669,7 +39669,7 @@
     "allele_codes": "855",
     "animal_details": "eiusmod ut dolore veniam et veniam quis velit ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -39756,7 +39756,7 @@
     "age": 15.879566532834886,
     "allele_codes": "857",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -39845,7 +39845,7 @@
     "allele_codes": "859",
     "animal_details": "commodo pariatur ut mollit ex veniam quis exercitation veniam ut minim cupidatat ex ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "milk pasteurized",
@@ -39944,7 +39944,7 @@
     "allele_codes": "861",
     "animal_details": "exercitation mollit occaecat veniam laborum excepteur tempor adipiscing reprehenderit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk",
       "milk pasteurized"
@@ -40504,7 +40504,7 @@
     "allele_codes": "873",
     "animal_details": "mollit occaecat tempor tempor ea fugiat ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "rawmilk",
@@ -40596,7 +40596,7 @@
     "age": 11.483983960475486,
     "allele_codes": "875",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -40638,7 +40638,7 @@
     "allele_codes": "876",
     "animal_details": "veniam anim quis veniam dolor sint veniam ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 280,
@@ -40680,7 +40680,7 @@
     "age": 61.717934806827444,
     "allele_codes": "877",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "milk pasteurized"
@@ -40858,7 +40858,7 @@
     "age": 37.83117654260438,
     "allele_codes": "881",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawcheese",
@@ -40908,7 +40908,7 @@
     "allele_codes": "882",
     "animal_details": "id veniam magna mollit ex sint ullamco dolor est quis anim adipiscing sint mollit tempor voluptate elit veniam consectetur veniam dolor enim veniam eu laboris veniam veniam veniam officia sunt ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -40998,7 +40998,7 @@
     "animal_details": "velit n anim qui minim quis ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "milk pasteurized"
@@ -41217,7 +41217,7 @@
     "age": 34.47190135733917,
     "allele_codes": "889",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -41298,7 +41298,7 @@
     "age": 24.274213396551875,
     "allele_codes": "891",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -41349,7 +41349,7 @@
     "age": 26.76874255869713,
     "allele_codes": "892",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -41431,7 +41431,7 @@
     "allele_codes": "894",
     "animal_details": "dolore mollit irure non dolore quis consectetur irure velit pariatur magna consequat ex pariatur ut consectetur ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -41540,7 +41540,7 @@
     "allele_codes": "896",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -41725,7 +41725,7 @@
     "animal_details": "veniam adipiscing dolor sint fugiat ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -41768,7 +41768,7 @@
     "age": 13.676662565279484,
     "allele_codes": "901",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -41816,7 +41816,7 @@
     "age": 66.64791915440134,
     "allele_codes": "902",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "rawcheese",
@@ -41912,7 +41912,7 @@
     "allele_codes": "904",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -42000,7 +42000,7 @@
     "age": 31.450600075959336,
     "allele_codes": "906",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -42134,7 +42134,7 @@
     "age": 16.170986276290133,
     "allele_codes": "909",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "milk pasteurized"
@@ -42187,7 +42187,7 @@
     "age": 36.27733741991777,
     "allele_codes": "910",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -42371,7 +42371,7 @@
     "allele_codes": "914",
     "animal_details": "veniam commodo officia cupidatat occaecat ut officia qui ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -42517,7 +42517,7 @@
     "age": 68.83089749739534,
     "allele_codes": "917",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "rawmilk"
     ],
@@ -42661,7 +42661,7 @@
     "animal_details": "quis tempor consectetur et ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -42708,7 +42708,7 @@
     "age": 45.12639443606139,
     "allele_codes": "921",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -42760,7 +42760,7 @@
     "age": 55.782859782893624,
     "allele_codes": "922",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -42806,7 +42806,7 @@
     "age": 52.322244259470374,
     "allele_codes": "923",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -42903,7 +42903,7 @@
     "allele_codes": "925",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "seafood"
@@ -43185,7 +43185,7 @@
     "allele_codes": "931",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -43229,7 +43229,7 @@
     "age": 15.283797160725003,
     "allele_codes": "932",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -43366,7 +43366,7 @@
     "age": 10.631976590928438,
     "allele_codes": "935",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -43496,7 +43496,7 @@
     "age": 62.204713304954936,
     "allele_codes": "938",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "pork",
       "milk pasteurized"
@@ -43538,7 +43538,7 @@
     "allele_codes": "939",
     "animal_details": "amet magna ullamco veniam quis ut mollit veniam dolor ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -43585,7 +43585,7 @@
     "allele_codes": "940",
     "animal_details": "n incididunt tempor pariatur ut consequat cillum tempor lorem sint cillum ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -43678,7 +43678,7 @@
     "allele_codes": "942",
     "animal_details": "magna dolor ut cillum consequat sed elit est mollit laboris veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "dairy products",
@@ -43780,7 +43780,7 @@
     "age": 64.61194290173124,
     "allele_codes": "944",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -43833,7 +43833,7 @@
     "age": 49.01551237267183,
     "allele_codes": "945",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -43877,7 +43877,7 @@
     "age": 41.6839946966007,
     "allele_codes": "946",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "rawmilk",
@@ -43978,7 +43978,7 @@
     "age": 67.40143628065798,
     "allele_codes": "948",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawmilk"
     ],
@@ -44158,7 +44158,7 @@
     "allele_codes": "952",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 308,
@@ -44200,7 +44200,7 @@
     "age": 51.85866132258251,
     "allele_codes": "953",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -44297,7 +44297,7 @@
     "age": 42.65831754535648,
     "allele_codes": "955",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 309,
@@ -44514,7 +44514,7 @@
     "age": 38.20672371441431,
     "allele_codes": "960",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -44802,7 +44802,7 @@
     "age": 31.42914935210482,
     "allele_codes": "966",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -44854,7 +44854,7 @@
     "animal_details": "quis ex reprehenderit sint n occaecat consequat ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -44989,7 +44989,7 @@
     "age": 40.18634256683867,
     "allele_codes": "970",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -45094,7 +45094,7 @@
     "age": 13.419163197621296,
     "allele_codes": "972",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -45145,7 +45145,7 @@
     "age": 61.666522365470094,
     "allele_codes": "973",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "organ meat",
       "eggs",
       "rawcheese",
@@ -45199,7 +45199,7 @@
     "allele_codes": "974",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 323,
@@ -45285,7 +45285,7 @@
     "allele_codes": "976",
     "animal_details": "veniam mollit veniam lorem ex sint veniam sed ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawmilk",
@@ -45335,7 +45335,7 @@
     "allele_codes": "977",
     "animal_details": "officia voluptate sint nulla mollit velit reprehenderit aliquip laboris veniam ex labore mollit n dolore qui veniam sint veniam cillum reprehenderit ut mollit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "organ meat",
       "seafood",
       "dairy products",
@@ -45388,7 +45388,7 @@
     "allele_codes": "978",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "seafood",
       "eggs",
@@ -45490,7 +45490,7 @@
     "allele_codes": "980",
     "animal_details": "veniam officia dolor duis labore veniam veniam veniam est ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -45635,7 +45635,7 @@
     "age": 33.8424258891162,
     "allele_codes": "983",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -45684,7 +45684,7 @@
     "age": 13.605313826019682,
     "allele_codes": "984",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 315,
@@ -45819,7 +45819,7 @@
     "age": 32.46283467837457,
     "allele_codes": "987",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "organ meat",
       "dairy products",
       "rawmilk"
@@ -45912,7 +45912,7 @@
     "age": 39.503425583851765,
     "allele_codes": "989",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "pork",
       "eggs",
@@ -45998,7 +45998,7 @@
     "age": 56.82516005834891,
     "allele_codes": "991",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -46180,7 +46180,7 @@
     "age": 56.16027220717354,
     "allele_codes": "995",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -46307,7 +46307,7 @@
     "allele_codes": "998",
     "animal_details": "nostrud veniam ex dolor dolor irure sunt consectetur in qui quis veniam consequat pariatur dolore quis ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 320,
@@ -46402,7 +46402,7 @@
     "animal_details": "ut veniam veniam et adipiscing dolor quis sint nostrud cillum cillum tempor ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "rawcheese",
       "milk pasteurized"
@@ -46501,7 +46501,7 @@
     "age": 52.321775560980534,
     "allele_codes": "1002",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -46546,7 +46546,7 @@
     "allele_codes": "1003",
     "animal_details": "lorem pariatur veniam nulla veniam veniam id ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -46731,7 +46731,7 @@
     "allele_codes": "1007",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -47115,7 +47115,7 @@
     "allele_codes": "1015",
     "animal_details": "veniam sint dolor veniam ut laboris ea sunt anim occaecat sint tempor ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -47163,7 +47163,7 @@
     "allele_codes": "1016",
     "animal_details": "commodo dolore est nostrud exercitation magna mollit sint ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 333,
@@ -47211,7 +47211,7 @@
     "allele_codes": "1017",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -47439,7 +47439,7 @@
     "age": 15.18689170178836,
     "allele_codes": "1022",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -47495,7 +47495,7 @@
     "allele_codes": "1023",
     "animal_details": "commodo n et aliquip ex quis adipiscing ullamco veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "seafood",
       "dairy products",
@@ -47720,7 +47720,7 @@
     "animal_details": "n amet veniam ipsum incididunt incididunt veniam veniam veniam ex occaecat lorem officia veniam dolore magna ex veniam qui ut veniam tempor veniam ut mollit irure cillum ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -47874,7 +47874,7 @@
     "age": 14.57843703630345,
     "allele_codes": "1031",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "rawcheese",
@@ -48017,7 +48017,7 @@
     "allele_codes": "1034",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "meat other",
       "milk pasteurized"
     ],
@@ -48107,7 +48107,7 @@
     "age": 13.683820462678634,
     "allele_codes": "1036",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products"
     ],
@@ -48159,7 +48159,7 @@
     "age": 12.991552056307333,
     "allele_codes": "1037",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "dairy products",
       "milk pasteurized"
@@ -48254,7 +48254,7 @@
     "age": 55.254789389959804,
     "allele_codes": "1039",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -48579,7 +48579,7 @@
     "age": 18.8081364582967,
     "allele_codes": "1046",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -48850,7 +48850,7 @@
     "age": 52.99474912515553,
     "allele_codes": "1052",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -48955,7 +48955,7 @@
     "allele_codes": "1054",
     "animal_details": "nisi veniam anim officia dolor adipiscing duis non tempor veniam dolor quis veniam mollit ex velit consectetur laboris ad pariatur sint sint veniam lorem voluptate veniam eiusmod dolor veniam adipiscing veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "seafood"
@@ -48998,7 +48998,7 @@
     "allele_codes": "1055",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -49469,7 +49469,7 @@
     "age": 55.93511998918225,
     "allele_codes": "1065",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawmilk",
@@ -49517,7 +49517,7 @@
     "age": 35.159842322325865,
     "allele_codes": "1066",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -49609,7 +49609,7 @@
     "age": 32.149213388983426,
     "allele_codes": "1068",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -49709,7 +49709,7 @@
     "allele_codes": "1070",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -49753,7 +49753,7 @@
     "age": 30.65739951859329,
     "allele_codes": "1071",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 342,
@@ -49842,7 +49842,7 @@
     "age": 74.62497962034125,
     "allele_codes": "1073",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk",
       "milk pasteurized"
@@ -50651,7 +50651,7 @@
     "age": 13.113675165648644,
     "allele_codes": "1090",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -50786,7 +50786,7 @@
     "animal_details": "ex laborum dolor dolor laborum consectetur cupidatat sit ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "eggs",
@@ -50839,7 +50839,7 @@
     "allele_codes": "1094",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -51115,7 +51115,7 @@
     "age": 48.75713942959201,
     "allele_codes": "1100",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -51212,7 +51212,7 @@
     "allele_codes": "1102",
     "animal_details": "ad tempor id ex sint elit sint ex ut ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -51391,7 +51391,7 @@
     "age": 10.248873395095059,
     "allele_codes": "1106",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -51535,7 +51535,7 @@
     "age": 14.79304400592186,
     "allele_codes": "1109",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other"
     ],
     "city": 0,
@@ -51574,7 +51574,7 @@
     "age": 28.130840271766967,
     "allele_codes": "1110",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 354,
@@ -51614,7 +51614,7 @@
     "allele_codes": "1111",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -51658,7 +51658,7 @@
     "age": 27.461306194840834,
     "allele_codes": "1112",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -51832,7 +51832,7 @@
     "age": 14.828202244512832,
     "allele_codes": "1116",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "seafood"
@@ -51883,7 +51883,7 @@
     "allele_codes": "1117",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -51971,7 +51971,7 @@
     "allele_codes": "1119",
     "animal_details": "mollit adipiscing sint magna deserunt sint magna ex laborum velit fugiat fugiat reprehenderit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -52011,7 +52011,7 @@
     "animal_details": "anim veniam dolore irure anim ad cupidatat ex dolor veniam dolor dolor ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "dairy products"
     ],
@@ -52332,7 +52332,7 @@
     "age": 64.4917982361041,
     "allele_codes": "1127",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -52469,7 +52469,7 @@
     "age": 65.7028312084434,
     "allele_codes": "1130",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -52552,7 +52552,7 @@
     "allele_codes": "1132",
     "animal_details": "nisi ex deserunt laborum sint tempor deserunt cupidatat cupidatat nulla ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -52691,7 +52691,7 @@
     "allele_codes": "1135",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "milk pasteurized",
@@ -53156,7 +53156,7 @@
     "age": 42.90118287780715,
     "allele_codes": "1145",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -53290,7 +53290,7 @@
     "age": 56.77971235145592,
     "allele_codes": "1148",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -53333,7 +53333,7 @@
     "age": 33.58390337539963,
     "allele_codes": "1149",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawcheese",
@@ -53382,7 +53382,7 @@
     "age": 42.87530814033829,
     "allele_codes": "1150",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "milk pasteurized",
@@ -53477,7 +53477,7 @@
     "allele_codes": "1152",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 370,
@@ -53571,7 +53571,7 @@
     "age": 15.508051102572157,
     "allele_codes": "1154",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 370,
@@ -53889,7 +53889,7 @@
     "allele_codes": "1161",
     "animal_details": "irure ullamco amet nisi tempor mollit quis dolor dolor veniam aliquip veniam veniam ex cupidatat sint dolor veniam exercitation incididunt ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -54169,7 +54169,7 @@
     "age": 54.27933025922179,
     "allele_codes": "1168",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawmilk",
@@ -54261,7 +54261,7 @@
     "allele_codes": "1170",
     "animal_details": "nulla est proident esse dolor sint reprehenderit veniam dolor anim n ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -54414,7 +54414,7 @@
     "age": 46.284226165821934,
     "allele_codes": "1173",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -54501,7 +54501,7 @@
     "age": 71.1317533507877,
     "allele_codes": "1175",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -54546,7 +54546,7 @@
     "age": 53.868948376833906,
     "allele_codes": "1176",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "milk pasteurized"
@@ -54640,7 +54640,7 @@
     "age": 21.26807589462605,
     "allele_codes": "1178",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -54824,7 +54824,7 @@
     "age": 28.964128645671995,
     "allele_codes": "1182",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -54919,7 +54919,7 @@
     "animal_details": "mollit veniam ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -55014,7 +55014,7 @@
     "age": 60.95300286875605,
     "allele_codes": "1186",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -55100,7 +55100,7 @@
     "allele_codes": "1188",
     "animal_details": "in veniam sunt mollit veniam dolor dolor quis ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese",
       "rawmilk",
@@ -55154,7 +55154,7 @@
     "age": 62.755811625803986,
     "allele_codes": "1189",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -55602,7 +55602,7 @@
     "age": 15.95156364119589,
     "allele_codes": "1199",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -55802,7 +55802,7 @@
     "allele_codes": "1203",
     "animal_details": "in cillum veniam adipiscing irure sed ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -55977,7 +55977,7 @@
     "age": 70.01353816320245,
     "allele_codes": "1207",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawcheese",
@@ -56025,7 +56025,7 @@
     "age": 30.749002268675213,
     "allele_codes": "1208",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -56149,7 +56149,7 @@
     "age": 64.91771835903572,
     "allele_codes": "1211",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -56843,7 +56843,7 @@
     "age": 21.225401430381808,
     "allele_codes": "1226",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "eggs",
@@ -56982,7 +56982,7 @@
     "allele_codes": "1229",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk",
       "milk pasteurized"
@@ -57118,7 +57118,7 @@
     "age": 42.67048135907417,
     "allele_codes": "1232",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "milk pasteurized"
@@ -57169,7 +57169,7 @@
     "age": 36.17238067485992,
     "allele_codes": "1233",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "rawmilk",
@@ -57378,7 +57378,7 @@
     "allele_codes": "1237",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "milk pasteurized"
@@ -57469,7 +57469,7 @@
     "allele_codes": "1239",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -57562,7 +57562,7 @@
     "age": 71.31496768862164,
     "allele_codes": "1241",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -57646,7 +57646,7 @@
     "age": 35.71736595094317,
     "allele_codes": "1243",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk",
       "milk pasteurized"
@@ -57694,7 +57694,7 @@
     "age": 49.472751824754226,
     "allele_codes": "1244",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -57773,7 +57773,7 @@
     "age": 72.30434195942209,
     "allele_codes": "1246",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -58181,7 +58181,7 @@
     "age": 67.27662807032348,
     "allele_codes": "1255",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -58267,7 +58267,7 @@
     "age": 30.723764422364855,
     "allele_codes": "1257",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 398,
@@ -58358,7 +58358,7 @@
     "age": 37.88692931615104,
     "allele_codes": "1259",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawmilk",
       "seafood"
@@ -58406,7 +58406,7 @@
     "age": 50.82141297173181,
     "allele_codes": "1260",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "turkey",
       "eggs"
@@ -58590,7 +58590,7 @@
     "age": 74.89575190858707,
     "allele_codes": "1264",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -58681,7 +58681,7 @@
     "age": 44.81539100959169,
     "allele_codes": "1266",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -58723,7 +58723,7 @@
     "age": 46.07338340284348,
     "allele_codes": "1267",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -58876,7 +58876,7 @@
     "age": 68.87807516098715,
     "allele_codes": "1270",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawmilk",
@@ -58975,7 +58975,7 @@
     "age": 69.86783540798439,
     "allele_codes": "1272",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -59026,7 +59026,7 @@
     "age": 74.39673492087785,
     "allele_codes": "1273",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawmilk"
     ],
@@ -59075,7 +59075,7 @@
     "allele_codes": "1274",
     "animal_details": "sint veniam cupidatat aute veniam veniam quis veniam do n tempor aliqua dolore dolore adipiscing mollit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "rawcheese"
@@ -59246,7 +59246,7 @@
     "age": 26.016935547422975,
     "allele_codes": "1278",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -59334,7 +59334,7 @@
     "allele_codes": "1280",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawcheese"
@@ -59630,7 +59630,7 @@
     "age": 24.242952211978412,
     "allele_codes": "1286",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products"
     ],
@@ -60097,7 +60097,7 @@
     "allele_codes": "1296",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "rawcheese",
@@ -60228,7 +60228,7 @@
     "age": 11.387991958387692,
     "allele_codes": "1299",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -60277,7 +60277,7 @@
     "age": 47.390512118377494,
     "allele_codes": "1300",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "seafood"
@@ -60429,7 +60429,7 @@
     "allele_codes": "1303",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 420,
@@ -60918,7 +60918,7 @@
     "age": 11.597528347881818,
     "allele_codes": "1314",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "turkey",
       "rawcheese"
     ],
@@ -61007,7 +61007,7 @@
     "allele_codes": "1316",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -61562,7 +61562,7 @@
     "age": 11.761929211099366,
     "allele_codes": "1328",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -61661,7 +61661,7 @@
     "age": 19.544225852536442,
     "allele_codes": "1330",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "milk pasteurized",
@@ -61714,7 +61714,7 @@
     "age": 40.98775065056166,
     "allele_codes": "1331",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -61848,7 +61848,7 @@
     "allele_codes": "1334",
     "animal_details": "sint in pariatur dolore ex mollit minim veniam quis sint n mollit quis ut mollit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -61897,7 +61897,7 @@
     "allele_codes": "1335",
     "animal_details": "n magna in veniam irure adipiscing veniam veniam adipiscing id dolore aute lorem non ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 427,
@@ -62026,7 +62026,7 @@
     "age": 73.83163973476624,
     "allele_codes": "1338",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -62076,7 +62076,7 @@
     "allele_codes": "1339",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "seafood"
@@ -62178,7 +62178,7 @@
     "age": 70.99801847779986,
     "allele_codes": "1341",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -62224,7 +62224,7 @@
     "age": 18.437831995686352,
     "allele_codes": "1342",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "milk pasteurized"
@@ -62461,7 +62461,7 @@
     "age": 52.45419646108134,
     "allele_codes": "1347",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -62550,7 +62550,7 @@
     "allele_codes": "1349",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "seafood"
@@ -62911,7 +62911,7 @@
     "age": 67.9890229544084,
     "allele_codes": "1357",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 433,
@@ -62997,7 +62997,7 @@
     "allele_codes": "1359",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -63090,7 +63090,7 @@
     "animal_details": "laborum est dolor aute quis deserunt nostrud id dolor qui ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "milk pasteurized"
     ],
@@ -63282,7 +63282,7 @@
     "allele_codes": "1365",
     "animal_details": "minim fugiat consectetur veniam veniam veniam sint ut mollit quis laborum labore tempor ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -63338,7 +63338,7 @@
     "allele_codes": "1366",
     "animal_details": "adipiscing proident sint n consectetur consectetur reprehenderit anim quis ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -63532,7 +63532,7 @@
     "age": 11.96131454576018,
     "allele_codes": "1370",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -63624,7 +63624,7 @@
     "age": 43.56761701319092,
     "allele_codes": "1372",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "eggs"
@@ -63673,7 +63673,7 @@
     "age": 14.760057229471588,
     "allele_codes": "1373",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese",
       "rawmilk"
@@ -63818,7 +63818,7 @@
     "age": 24.841109492205394,
     "allele_codes": "1376",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -64039,7 +64039,7 @@
     "age": 28.123626278859014,
     "allele_codes": "1381",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "rawcheese"
@@ -64087,7 +64087,7 @@
     "allele_codes": "1382",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese",
       "milk pasteurized"
     ],
@@ -64267,7 +64267,7 @@
     "age": 66.77422519217336,
     "allele_codes": "1386",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "egg foods",
       "rawcheese",
       "milk pasteurized"
@@ -64361,7 +64361,7 @@
     "age": 44.20775631585606,
     "allele_codes": "1388",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -64454,7 +64454,7 @@
     "allele_codes": "1390",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -64627,7 +64627,7 @@
     "allele_codes": "1394",
     "animal_details": "sint veniam aliquip ut fugiat dolor adipiscing sunt adipiscing ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -64667,7 +64667,7 @@
     "allele_codes": "1395",
     "animal_details": "veniam deserunt aliqua sit laborum ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -64710,7 +64710,7 @@
     "age": 29.235588856312727,
     "allele_codes": "1396",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -64753,7 +64753,7 @@
     "age": 41.7880412927409,
     "allele_codes": "1397",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 447,
@@ -64981,7 +64981,7 @@
     "age": 28.45119123060031,
     "allele_codes": "1402",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -65034,7 +65034,7 @@
     "age": 70.30933823717938,
     "allele_codes": "1403",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "rawmilk"
@@ -65083,7 +65083,7 @@
     "age": 10.987445524788662,
     "allele_codes": "1404",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "eggs"
@@ -65271,7 +65271,7 @@
     "allele_codes": "1408",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "processed meat"
     ],
@@ -65504,7 +65504,7 @@
     "allele_codes": "1413",
     "animal_details": "sed sint aute reprehenderit elit velit cillum sint in ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat"
     ],
@@ -65608,7 +65608,7 @@
     "age": 23.68595115131888,
     "allele_codes": "1415",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -65651,7 +65651,7 @@
     "allele_codes": "1416",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "milk pasteurized",
       "seafood"
@@ -65846,7 +65846,7 @@
     "allele_codes": "1420",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -65893,7 +65893,7 @@
     "age": 46.452972183377234,
     "allele_codes": "1421",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "milk pasteurized",
@@ -65950,7 +65950,7 @@
     "age": 53.681554854188754,
     "allele_codes": "1422",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -66189,7 +66189,7 @@
     "animal_details": "ullamco reprehenderit ",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 457,
@@ -66282,7 +66282,7 @@
     "age": 22.71959171930133,
     "allele_codes": "1429",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -66532,7 +66532,7 @@
     "allele_codes": "1434",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -66948,7 +66948,7 @@
     "age": 71.58870949097604,
     "allele_codes": "1443",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -67080,7 +67080,7 @@
     "age": 29.718243458200455,
     "allele_codes": "1446",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -67589,7 +67589,7 @@
     "age": 58.92531148902055,
     "allele_codes": "1457",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -67844,7 +67844,7 @@
     "age": 30.09336791876415,
     "allele_codes": "1463",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -67931,7 +67931,7 @@
     "allele_codes": "1465",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -68020,7 +68020,7 @@
     "age": 31.559392487198142,
     "allele_codes": "1467",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawmilk",
@@ -68168,7 +68168,7 @@
     "allele_codes": "1470",
     "animal_details": "voluptate sint cillum n non cillum incididunt eu velit n n n veniam veniam veniam qui ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -68214,7 +68214,7 @@
     "age": 52.35419391118122,
     "allele_codes": "1471",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -68348,7 +68348,7 @@
     "allele_codes": "1474",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -68394,7 +68394,7 @@
     "age": 16.357910404187404,
     "allele_codes": "1475",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "seafood"
@@ -68451,7 +68451,7 @@
     "age": 45.19073266931988,
     "allele_codes": "1476",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -68536,7 +68536,7 @@
     "age": 28.392666191812523,
     "allele_codes": "1478",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -68581,7 +68581,7 @@
     "allele_codes": "1479",
     "animal_details": "aliqua eiusmod sint adipiscing ex fugiat tempor dolor ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -68762,7 +68762,7 @@
     "allele_codes": "1483",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -68855,7 +68855,7 @@
     "allele_codes": "1485",
     "animal_details": "officia sit mollit veniam sed ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -68958,7 +68958,7 @@
     "age": 52.96009965061037,
     "allele_codes": "1487",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs"
     ],
@@ -69001,7 +69001,7 @@
     "age": 60.21344714593761,
     "allele_codes": "1488",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -69049,7 +69049,7 @@
     "allele_codes": "1489",
     "animal_details": "sunt veniam ex veniam mollit tempor adipiscing lorem ut sit mollit ut ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -69373,7 +69373,7 @@
     "age": 35.73535072424645,
     "allele_codes": "1496",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -69493,7 +69493,7 @@
     "age": 29.391397634198814,
     "allele_codes": "1499",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "rawmilk"
@@ -69586,7 +69586,7 @@
     "age": 65.5381206971681,
     "allele_codes": "1501",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -69761,7 +69761,7 @@
     "age": 70.45357068979175,
     "allele_codes": "1505",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -70179,7 +70179,7 @@
     "allele_codes": "1514",
     "animal_details": "adipiscing veniam nostrud dolor occaecat reprehenderit laboris sint enim ut sint est sint laborum n ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -70501,7 +70501,7 @@
     "allele_codes": "1521",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "milk pasteurized"
@@ -70638,7 +70638,7 @@
     "age": 32.06637314178597,
     "allele_codes": "1524",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawmilk"
     ],
@@ -70739,7 +70739,7 @@
     "allele_codes": "1526",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 488,
@@ -70774,7 +70774,7 @@
     "age": 10.146593360155604,
     "allele_codes": "1527",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -70820,7 +70820,7 @@
     "allele_codes": "1528",
     "animal_details": "quis ex irure do mollit occaecat sint dolor exercitation ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk",
       "milk pasteurized"
@@ -71148,7 +71148,7 @@
     "allele_codes": "1535",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "seafood"
@@ -71241,7 +71241,7 @@
     "age": 45.076313473882365,
     "allele_codes": "1537",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -71367,7 +71367,7 @@
     "allele_codes": "1540",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -71593,7 +71593,7 @@
     "age": 40.87047045076565,
     "allele_codes": "1545",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -71836,7 +71836,7 @@
     "allele_codes": "1550",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -72093,7 +72093,7 @@
     "age": 23.94200145268504,
     "allele_codes": "1555",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 500,
@@ -72233,7 +72233,7 @@
     "age": 60.98345688257369,
     "allele_codes": "1558",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -72279,7 +72279,7 @@
     "allele_codes": "1559",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -72322,7 +72322,7 @@
     "age": 38.45203696955762,
     "allele_codes": "1560",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawmilk",
       "seafood"
@@ -72373,7 +72373,7 @@
     "age": 50.00098112900012,
     "allele_codes": "1561",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -72521,7 +72521,7 @@
     "allele_codes": "1564",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -72751,7 +72751,7 @@
     "age": 68.97197130049491,
     "allele_codes": "1569",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 503,
@@ -72841,7 +72841,7 @@
     "allele_codes": "1571",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -72968,7 +72968,7 @@
     "age": 23.587177574102416,
     "allele_codes": "1574",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "rawcheese",
@@ -73154,7 +73154,7 @@
     "allele_codes": "1578",
     "animal_details": "adipiscing laborum adipiscing culpa pariatur ipsum lorem sint ut ex dolor sint sint veniam consectetur ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese"
     ],
@@ -73896,7 +73896,7 @@
     "age": 27.059355687231847,
     "allele_codes": "1594",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -73947,7 +73947,7 @@
     "allele_codes": "1595",
     "animal_details": "tempor deserunt qui deserunt veniam veniam n commodo veniam magna sint dolor magna sint et occaecat sint labore mollit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -73996,7 +73996,7 @@
     "age": 44.15012850580215,
     "allele_codes": "1596",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -74039,7 +74039,7 @@
     "age": 48.83626704043087,
     "allele_codes": "1597",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -74085,7 +74085,7 @@
     "age": 11.313383987121371,
     "allele_codes": "1598",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -74435,7 +74435,7 @@
     "allele_codes": "1605",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -74486,7 +74486,7 @@
     "age": 68.68632299749694,
     "allele_codes": "1606",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -74534,7 +74534,7 @@
     "age": 72.59255200543106,
     "allele_codes": "1607",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -74758,7 +74758,7 @@
     "animal_details": "consectetur do amet sunt ut sint officia cupidatat sint officia ex ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -74810,7 +74810,7 @@
     "allele_codes": "1613",
     "animal_details": "voluptate n duis ut est consectetur tempor ut quis eiusmod sint mollit deserunt commodo n veniam mollit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -74853,7 +74853,7 @@
     "allele_codes": "1614",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "seafood"
@@ -75053,7 +75053,7 @@
     "animal_details": "sint n n do esse laboris officia ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawcheese"
@@ -75096,7 +75096,7 @@
     "age": 48.88852860498909,
     "allele_codes": "1619",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "seafood"
@@ -75147,7 +75147,7 @@
     "allele_codes": "1620",
     "animal_details": "sint ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -75296,7 +75296,7 @@
     "age": 40.6682070770983,
     "allele_codes": "1623",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "milk pasteurized"
     ],
@@ -75347,7 +75347,7 @@
     "age": 32.59586256188119,
     "allele_codes": "1624",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "rawmilk"
@@ -75535,7 +75535,7 @@
     "age": 47.9707421365269,
     "allele_codes": "1628",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -75573,7 +75573,7 @@
     "age": 30.60609035877141,
     "allele_codes": "1629",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -75615,7 +75615,7 @@
     "age": 34.47506027824402,
     "allele_codes": "1630",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawmilk"
@@ -75710,7 +75710,7 @@
     "age": 57.94706833282115,
     "allele_codes": "1632",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "seafood"
@@ -75801,7 +75801,7 @@
     "age": 38.39330734166592,
     "allele_codes": "1634",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -75852,7 +75852,7 @@
     "allele_codes": "1635",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -75902,7 +75902,7 @@
     "age": 36.09430401534709,
     "allele_codes": "1636",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "milk pasteurized"
@@ -76143,7 +76143,7 @@
     "allele_codes": "1641",
     "animal_details": "dolor ullamco veniam occaecat culpa aute veniam aliqua veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "dairy products",
@@ -76196,7 +76196,7 @@
     "allele_codes": "1642",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -76288,7 +76288,7 @@
     "age": 61.2952830774644,
     "allele_codes": "1644",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "eggs",
       "rawcheese"
@@ -76519,7 +76519,7 @@
     "age": 12.319987621570489,
     "allele_codes": "1649",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -76733,7 +76733,7 @@
     "age": 27.902096685024084,
     "allele_codes": "1654",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -76833,7 +76833,7 @@
     "age": 67.09742705867329,
     "allele_codes": "1656",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese",
       "rawmilk"
@@ -77017,7 +77017,7 @@
     "allele_codes": "1660",
     "animal_details": "anim veniam tempor veniam veniam adipiscing eu anim veniam cillum ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -77059,7 +77059,7 @@
     "allele_codes": "1661",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -77245,7 +77245,7 @@
     "animal_details": "in ad in veniam labore reprehenderit dolor ",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 530,
@@ -77345,7 +77345,7 @@
     "age": 41.06516201706151,
     "allele_codes": "1667",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawcheese",
@@ -77439,7 +77439,7 @@
     "allele_codes": "1669",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "turkey",
       "milk pasteurized"
     ],
@@ -77713,7 +77713,7 @@
     "allele_codes": "1675",
     "animal_details": "magna ea est ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "dairy products",
       "rawmilk",
@@ -77768,7 +77768,7 @@
     "age": 40.33389726155895,
     "allele_codes": "1676",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "dairy products",
@@ -77831,7 +77831,7 @@
     "age": 65.91732802379929,
     "allele_codes": "1677",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -77883,7 +77883,7 @@
     "allele_codes": "1678",
     "animal_details": "ex enim commodo laborum exercitation veniam dolore dolor anim non duis ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -77973,7 +77973,7 @@
     "age": 63.44100897339756,
     "allele_codes": "1680",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 535,
@@ -78064,7 +78064,7 @@
     "age": 16.01463070809295,
     "allele_codes": "1682",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "milk pasteurized"
@@ -78312,7 +78312,7 @@
     "age": 65.1712857065409,
     "allele_codes": "1687",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -78357,7 +78357,7 @@
     "age": 29.526837644484832,
     "allele_codes": "1688",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -78748,7 +78748,7 @@
     "allele_codes": "1697",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "milk pasteurized",
@@ -78799,7 +78799,7 @@
     "allele_codes": "1698",
     "animal_details": "dolore quis tempor dolor ullamco veniam ex adipiscing tempor veniam n labore laborum ut excepteur exercitation adipiscing irure cillum minim veniam adipiscing veniam minim mollit dolor in cupidatat quis sint minim n consequat ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -79052,7 +79052,7 @@
     "age": 68.25586230323236,
     "allele_codes": "1703",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "seafood"
@@ -79141,7 +79141,7 @@
     "age": 12.36258695340453,
     "allele_codes": "1705",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -79261,7 +79261,7 @@
     "allele_codes": "1708",
     "animal_details": "sunt in et officia veniam minim sint laborum ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -79303,7 +79303,7 @@
     "age": 54.5064677030357,
     "allele_codes": "1709",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -79351,7 +79351,7 @@
     "age": 34.498677096334944,
     "allele_codes": "1710",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "milk pasteurized"
@@ -79405,7 +79405,7 @@
     "age": 10.362352478311935,
     "allele_codes": "1711",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products"
     ],
@@ -79635,7 +79635,7 @@
     "age": 56.640802548428695,
     "allele_codes": "1716",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -79711,7 +79711,7 @@
     "allele_codes": "1718",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -79804,7 +79804,7 @@
     "age": 35.25935233845388,
     "allele_codes": "1720",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -79906,7 +79906,7 @@
     "age": 16.96805036113921,
     "allele_codes": "1722",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese",
       "rawmilk",
@@ -80036,7 +80036,7 @@
     "age": 34.44835129444664,
     "allele_codes": "1725",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 557,
@@ -80126,7 +80126,7 @@
     "animal_details": "id deserunt consectetur sint aliqua lorem ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "dairy products"
@@ -80233,7 +80233,7 @@
     "allele_codes": "1729",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -80332,7 +80332,7 @@
     "allele_codes": "1731",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -80421,7 +80421,7 @@
     "age": 13.022020512960502,
     "allele_codes": "1733",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "rawmilk"
@@ -80474,7 +80474,7 @@
     "allele_codes": "1734",
     "animal_details": "sint sint quis in laborum ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -80526,7 +80526,7 @@
     "animal_details": "voluptate qui consequat veniam qui excepteur veniam veniam ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -80666,7 +80666,7 @@
     "allele_codes": "1738",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "dairy products"
@@ -80943,7 +80943,7 @@
     "allele_codes": "1744",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -81019,7 +81019,7 @@
     "allele_codes": "1746",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -81068,7 +81068,7 @@
     "age": 13.168151864083159,
     "allele_codes": "1747",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -81116,7 +81116,7 @@
     "allele_codes": "1748",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 561,
@@ -81549,7 +81549,7 @@
     "allele_codes": "1758",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -81693,7 +81693,7 @@
     "age": 70.36139262786959,
     "allele_codes": "1761",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -81792,7 +81792,7 @@
     "allele_codes": "1763",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -81927,7 +81927,7 @@
     "age": 30.953717309614614,
     "allele_codes": "1766",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -81970,7 +81970,7 @@
     "age": 25.37856949908843,
     "allele_codes": "1767",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -82342,7 +82342,7 @@
     "age": 71.319988100561,
     "allele_codes": "1775",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -82478,7 +82478,7 @@
     "age": 72.08672100651263,
     "allele_codes": "1778",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -82718,7 +82718,7 @@
     "allele_codes": "1783",
     "animal_details": "ad non officia sit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -82961,7 +82961,7 @@
     "age": 20.58616053837526,
     "allele_codes": "1788",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs"
     ],
@@ -83058,7 +83058,7 @@
     "age": 37.884240045792055,
     "allele_codes": "1790",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -83154,7 +83154,7 @@
     "allele_codes": "1792",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "dairy products"
     ],
@@ -83199,7 +83199,7 @@
     "age": 25.835413909738733,
     "allele_codes": "1793",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -83247,7 +83247,7 @@
     "age": 72.00518167784278,
     "allele_codes": "1794",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -83347,7 +83347,7 @@
     "allele_codes": "1796",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "seafood"
     ],
@@ -83429,7 +83429,7 @@
     "allele_codes": "1798",
     "animal_details": "laborum consequat nulla adipiscing dolor veniam magna est reprehenderit exercitation cillum ut ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawcheese"
@@ -83531,7 +83531,7 @@
     "age": 40.14248442551306,
     "allele_codes": "1800",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -83673,7 +83673,7 @@
     "allele_codes": "1803",
     "animal_details": "mollit dolore veniam ipsum dolor tempor voluptate veniam dolor tempor consectetur occaecat sint veniam ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -83719,7 +83719,7 @@
     "age": 19.329583675660373,
     "allele_codes": "1804",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -83762,7 +83762,7 @@
     "age": 59.5049773306647,
     "allele_codes": "1805",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "rawcheese",
@@ -83818,7 +83818,7 @@
     "allele_codes": "1806",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -83913,7 +83913,7 @@
     "age": 24.8421240843007,
     "allele_codes": "1808",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "dairy products",
@@ -84015,7 +84015,7 @@
     "age": 48.05980477179622,
     "allele_codes": "1810",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -84055,7 +84055,7 @@
     "age": 43.7213877468171,
     "allele_codes": "1811",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -84276,7 +84276,7 @@
     "age": 28.362297587138432,
     "allele_codes": "1816",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -84366,7 +84366,7 @@
     "age": 68.00290215140342,
     "allele_codes": "1818",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "egg foods",
       "milk pasteurized"
@@ -84414,7 +84414,7 @@
     "allele_codes": "1819",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "eggs",
@@ -84468,7 +84468,7 @@
     "allele_codes": "1820",
     "animal_details": "veniam magna ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawmilk"
@@ -84523,7 +84523,7 @@
     "age": 11.303304411491629,
     "allele_codes": "1821",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "organ meat",
       "dairy products",
       "eggs",
@@ -84662,7 +84662,7 @@
     "age": 28.931357903660654,
     "allele_codes": "1824",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -84949,7 +84949,7 @@
     "animal_details": "occaecat magna lorem voluptate deserunt eu occaecat sint nisi mollit veniam n ut veniam n ex ad dolor ex labore ut ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -85261,7 +85261,7 @@
     "allele_codes": "1837",
     "animal_details": "in sint duis ad dolor dolor reprehenderit veniam id n veniam consequat exercitation do n sunt adipiscing adipiscing ut tempor tempor adipiscing elit n dolor ipsum ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -85313,7 +85313,7 @@
     "allele_codes": "1838",
     "animal_details": "dolor reprehenderit incididunt veniam adipiscing lorem sint veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -85705,7 +85705,7 @@
     "age": 62.14344003191135,
     "allele_codes": "1847",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -85798,7 +85798,7 @@
     "age": 31.952822212405366,
     "allele_codes": "1849",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -86072,7 +86072,7 @@
     "age": 64.02364109482886,
     "allele_codes": "1855",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "turkey",
       "milk pasteurized"
     ],
@@ -86215,7 +86215,7 @@
     "allele_codes": "1858",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -86429,7 +86429,7 @@
     "age": 30.566472269889452,
     "allele_codes": "1863",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "seafood"
@@ -86478,7 +86478,7 @@
     "age": 26.692286282330613,
     "allele_codes": "1864",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -86620,7 +86620,7 @@
     "allele_codes": "1867",
     "animal_details": "veniam duis dolor ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -86670,7 +86670,7 @@
     "age": 25.432228089285957,
     "allele_codes": "1868",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -86765,7 +86765,7 @@
     "allele_codes": "1870",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "rawcheese",
@@ -86817,7 +86817,7 @@
     "allele_codes": "1871",
     "animal_details": "ut laborum dolor dolor veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -87016,7 +87016,7 @@
     "allele_codes": "1875",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -87064,7 +87064,7 @@
     "allele_codes": "1876",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawmilk",
@@ -87245,7 +87245,7 @@
     "allele_codes": "1880",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "rawmilk"
@@ -87288,7 +87288,7 @@
     "age": 67.2565976274623,
     "allele_codes": "1881",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -87430,7 +87430,7 @@
     "allele_codes": "1884",
     "animal_details": "magna sint sed ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "milk pasteurized"
     ],
@@ -87480,7 +87480,7 @@
     "age": 27.662228992829732,
     "allele_codes": "1885",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -87623,7 +87623,7 @@
     "age": 58.64580492313885,
     "allele_codes": "1888",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -87816,7 +87816,7 @@
     "allele_codes": "1892",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -87909,7 +87909,7 @@
     "allele_codes": "1894",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -88096,7 +88096,7 @@
     "age": 63.7999491222874,
     "allele_codes": "1898",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products"
     ],
@@ -88137,7 +88137,7 @@
     "age": 35.31501287993333,
     "allele_codes": "1899",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -88266,7 +88266,7 @@
     "allele_codes": "1902",
     "animal_details": "cillum ex magna in officia eiusmod elit veniam n anim veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "seafood",
       "seafood"
@@ -88312,7 +88312,7 @@
     "allele_codes": "1903",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "rawcheese"
     ],
@@ -88359,7 +88359,7 @@
     "age": 72.75875252865474,
     "allele_codes": "1904",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -88399,7 +88399,7 @@
     "allele_codes": "1905",
     "animal_details": "non ea aliquip veniam laborum veniam dolor nostrud proident anim dolore mollit in n n veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -88452,7 +88452,7 @@
     "age": 30.611409302955355,
     "allele_codes": "1906",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -88552,7 +88552,7 @@
     "allele_codes": "1908",
     "animal_details": "aliquip proident tempor ex et veniam qui est laboris dolor nisi deserunt ea veniam veniam est nulla in ad consequat in ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "processed meat",
       "dairy products",
@@ -88605,7 +88605,7 @@
     "age": 62.788464866244446,
     "allele_codes": "1909",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 604,
@@ -88647,7 +88647,7 @@
     "age": 38.8849442671624,
     "allele_codes": "1910",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -88917,7 +88917,7 @@
     "allele_codes": "1916",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -89019,7 +89019,7 @@
     "age": 39.67559927865812,
     "allele_codes": "1918",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -89111,7 +89111,7 @@
     "allele_codes": "1920",
     "animal_details": "officia aliqua tempor cillum sint cupidatat nostrud magna adipiscing quis dolore sed ex magna ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "rawmilk"
@@ -89193,7 +89193,7 @@
     "age": 28.458532696128596,
     "allele_codes": "1922",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -89488,7 +89488,7 @@
     "animal_details": "pariatur nisi ut commodo ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -89537,7 +89537,7 @@
     "age": 16.244767237974347,
     "allele_codes": "1929",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -89626,7 +89626,7 @@
     "age": 43.37401209260129,
     "allele_codes": "1931",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -89715,7 +89715,7 @@
     "age": 56.152835677534604,
     "allele_codes": "1933",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -89770,7 +89770,7 @@
     "age": 27.874520702347255,
     "allele_codes": "1934",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -90092,7 +90092,7 @@
     "age": 68.40947999852698,
     "allele_codes": "1941",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -90284,7 +90284,7 @@
     "age": 45.26148372519624,
     "allele_codes": "1945",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -90365,7 +90365,7 @@
     "age": 49.53599769634265,
     "allele_codes": "1947",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 616,
@@ -90540,7 +90540,7 @@
     "age": 74.7909184341187,
     "allele_codes": "1951",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -90582,7 +90582,7 @@
     "age": 47.166352243440855,
     "allele_codes": "1952",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs"
     ],
@@ -90685,7 +90685,7 @@
     "allele_codes": "1954",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese"
     ],
@@ -90920,7 +90920,7 @@
     "allele_codes": "1959",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -91014,7 +91014,7 @@
     "allele_codes": "1961",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "meat other",
       "dairy products",
       "rawmilk"
@@ -91426,7 +91426,7 @@
     "allele_codes": "1970",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -91678,7 +91678,7 @@
     "age": 17.682393022849887,
     "allele_codes": "1975",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese",
       "milk pasteurized"
@@ -91773,7 +91773,7 @@
     "age": 16.39013892686888,
     "allele_codes": "1977",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -91826,7 +91826,7 @@
     "allele_codes": "1978",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -91917,7 +91917,7 @@
     "allele_codes": "1980",
     "animal_details": "tempor qui ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "turkey",
       "rawcheese"
     ],
@@ -92223,7 +92223,7 @@
     "age": 49.3404169431264,
     "allele_codes": "1987",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -92357,7 +92357,7 @@
     "age": 36.260568726668126,
     "allele_codes": "1990",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 638,
@@ -92402,7 +92402,7 @@
     "age": 62.489682857691996,
     "allele_codes": "1991",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -92498,7 +92498,7 @@
     "age": 35.171342526159435,
     "allele_codes": "1993",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 634,
@@ -92588,7 +92588,7 @@
     "animal_details": "ex tempor sint ex veniam proident mollit consectetur anim in n ",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -92628,7 +92628,7 @@
     "age": 26.146645758574667,
     "allele_codes": "1996",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawcheese",
@@ -92758,7 +92758,7 @@
     "allele_codes": "1999",
     "animal_details": "labore veniam sint veniam veniam veniam sed reprehenderit veniam ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk"
     ],
@@ -92859,7 +92859,7 @@
     "age": 50.39374394498075,
     "allele_codes": "2001",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawcheese"
@@ -93109,7 +93109,7 @@
     "age": 11.087145123393757,
     "allele_codes": "2006",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "rawmilk",
       "milk pasteurized"
@@ -93293,7 +93293,7 @@
     "age": 61.68462227306469,
     "allele_codes": "2010",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -93341,7 +93341,7 @@
     "allele_codes": "2011",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 637,
@@ -93479,7 +93479,7 @@
     "allele_codes": "2014",
     "animal_details": "proident deserunt adipiscing magna sint commodo ex ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork"
     ],
     "city": 0,
@@ -93865,7 +93865,7 @@
     "allele_codes": "2022",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -93911,7 +93911,7 @@
     "allele_codes": "2023",
     "animal_details": "eu dolore culpa ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -94045,7 +94045,7 @@
     "allele_codes": "2026",
     "animal_details": "lorem mollit n consectetur incididunt dolor veniam qui dolore dolor veniam ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 642,
@@ -94095,7 +94095,7 @@
     "age": 56.6773778061609,
     "allele_codes": "2027",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -94236,7 +94236,7 @@
     "allele_codes": "2030",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -94286,7 +94286,7 @@
     "allele_codes": "2031",
     "animal_details": "minim veniam sint consectetur mollit nulla reprehenderit tempor ut consectetur consequat ullamco ex cillum dolore magna adipiscing mollit ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "dairy products",
       "rawmilk"
@@ -94333,7 +94333,7 @@
     "allele_codes": "2032",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -94516,7 +94516,7 @@
     "age": 63.573530731731616,
     "allele_codes": "2036",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk"
     ],
@@ -94620,7 +94620,7 @@
     "allele_codes": "2038",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -94674,7 +94674,7 @@
     "allele_codes": "2039",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 652,
@@ -94855,7 +94855,7 @@
     "allele_codes": "2043",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -94942,7 +94942,7 @@
     "age": 17.89859619242717,
     "allele_codes": "2045",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "seafood"
@@ -94991,7 +94991,7 @@
     "age": 43.8961426551793,
     "allele_codes": "2046",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -95031,7 +95031,7 @@
     "allele_codes": "2047",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawmilk"
@@ -95168,7 +95168,7 @@
     "age": 12.2339371576898,
     "allele_codes": "2050",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -95211,7 +95211,7 @@
     "allele_codes": "2051",
     "animal_product_exposures": [
       "beef",
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -95436,7 +95436,7 @@
     "age": 21.93764771895986,
     "allele_codes": "2056",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],
@@ -95485,7 +95485,7 @@
     "allele_codes": "2057",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -95522,7 +95522,7 @@
     "age": 29.11007701724463,
     "allele_codes": "2058",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "organ meat",
       "processed meat",
       "milk pasteurized"
@@ -95608,7 +95608,7 @@
     "age": 55.80328623338122,
     "allele_codes": "2060",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 662,
@@ -95700,7 +95700,7 @@
     "allele_codes": "2062",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "seafood"
@@ -95755,7 +95755,7 @@
     "allele_codes": "2063",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "eggs",
       "seafood"
@@ -95809,7 +95809,7 @@
     "age": 48.353779002868215,
     "allele_codes": "2064",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawcheese",
       "milk pasteurized"
@@ -95901,7 +95901,7 @@
     "allele_codes": "2066",
     "animal_details": "adipiscing qui sint dolor ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "rawmilk"
@@ -95953,7 +95953,7 @@
     "age": 33.88967158648196,
     "allele_codes": "2067",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -96341,7 +96341,7 @@
     "age": 62.369299186328924,
     "allele_codes": "2075",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "eggs",
       "milk pasteurized"
@@ -96389,7 +96389,7 @@
     "allele_codes": "2076",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "dairy products",
       "rawcheese"
@@ -96476,7 +96476,7 @@
     "age": 47.86874543976864,
     "allele_codes": "2078",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -96659,7 +96659,7 @@
     "allele_codes": "2082",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "eggs",
       "rawcheese"
@@ -96747,7 +96747,7 @@
     "age": 33.78755761108905,
     "allele_codes": "2084",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "milk pasteurized"
     ],
     "city": 0,
@@ -96836,7 +96836,7 @@
     "allele_codes": "2086",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawcheese"
@@ -96928,7 +96928,7 @@
     "age": 19.432340332628492,
     "allele_codes": "2088",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -96976,7 +96976,7 @@
     "allele_codes": "2089",
     "animal_details": "mollit est sint ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "milk pasteurized"
@@ -97220,7 +97220,7 @@
     "age": 51.944628124487046,
     "allele_codes": "2094",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "rawmilk",
       "milk pasteurized"
@@ -97267,7 +97267,7 @@
     "allele_codes": "2095",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "pork",
       "seafood",
       "seafood"
@@ -97558,7 +97558,7 @@
     "allele_codes": "2101",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -97690,7 +97690,7 @@
     "age": 33.17868704839603,
     "allele_codes": "2104",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 668,
@@ -97783,7 +97783,7 @@
     "age": 61.49306343779342,
     "allele_codes": "2106",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -98329,7 +98329,7 @@
     "age": 49.782530607410386,
     "allele_codes": "2118",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -98477,7 +98477,7 @@
     "age": 47.52176757140135,
     "allele_codes": "2121",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 675,
@@ -98712,7 +98712,7 @@
     "age": 15.878442156901595,
     "allele_codes": "2126",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "organ meat",
       "processed meat",
       "dairy products",
@@ -98765,7 +98765,7 @@
     "age": 15.866894893720676,
     "allele_codes": "2127",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -98938,7 +98938,7 @@
     "age": 52.326958981747815,
     "allele_codes": "2131",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawmilk"
     ],
@@ -98983,7 +98983,7 @@
     "age": 58.371297697897084,
     "allele_codes": "2132",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 680,
@@ -99116,7 +99116,7 @@
     "age": 37.98583145277681,
     "allele_codes": "2135",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "milk pasteurized"
@@ -99159,7 +99159,7 @@
     "age": 32.45684063995314,
     "allele_codes": "2136",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "rawcheese"
     ],
@@ -99702,7 +99702,7 @@
     "allele_codes": "2148",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -99844,7 +99844,7 @@
     "allele_codes": "2151",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -100443,7 +100443,7 @@
     "allele_codes": "2164",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "rawcheese",
       "seafood"
@@ -100625,7 +100625,7 @@
     "age": 66.85122035489525,
     "allele_codes": "2168",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "milk pasteurized"
@@ -100870,7 +100870,7 @@
     "allele_codes": "2173",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat",
       "seafood",
       "rawcheese",
@@ -100917,7 +100917,7 @@
     "allele_codes": "2174",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -101257,7 +101257,7 @@
     "age": 60.64949436759325,
     "allele_codes": "2181",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -101309,7 +101309,7 @@
     "age": 51.35293845837745,
     "allele_codes": "2182",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 694,
@@ -101445,7 +101445,7 @@
     "age": 25.19488295580018,
     "allele_codes": "2185",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -101718,7 +101718,7 @@
     "allele_codes": "2191",
     "animal_details": "lorem sed anim do sint commodo ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -101897,7 +101897,7 @@
     "age": 31.414657236289415,
     "allele_codes": "2195",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawmilk",
       "milk pasteurized"
     ],
@@ -101944,7 +101944,7 @@
     "age": 33.43198751420961,
     "allele_codes": "2196",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -102115,7 +102115,7 @@
     "allele_codes": "2200",
     "animal_details": "quis cillum tempor quis mollit deserunt ad dolore labore exercitation ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -102165,7 +102165,7 @@
     "allele_codes": "2201",
     "animal_details": "officia veniam dolor sed veniam occaecat dolor pariatur duis in ex adipiscing veniam est amet n minim esse ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawmilk"
     ],
@@ -102214,7 +102214,7 @@
     "allele_codes": "2202",
     "animal_details": "elit ex laborum cupidatat pariatur veniam velit dolore quis veniam ut sint non excepteur ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "milk pasteurized"
@@ -102260,7 +102260,7 @@
     "age": 14.525510441077568,
     "allele_codes": "2203",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese",
       "milk pasteurized"
     ],
@@ -102350,7 +102350,7 @@
     "allele_codes": "2205",
     "animal_details": "tempor laborum amet ex pariatur ",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 703,
@@ -102490,7 +102490,7 @@
     "allele_codes": "2208",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "rawmilk"
     ],
     "city": 0,
@@ -102893,7 +102893,7 @@
     "allele_codes": "2217",
     "animal_details": "pariatur sint fugiat eu veniam velit ut deserunt ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "milk pasteurized"
     ],
@@ -102947,7 +102947,7 @@
     "allele_codes": "2218",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -103095,7 +103095,7 @@
     "age": 32.7915736811123,
     "allele_codes": "2221",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "rawmilk",
       "milk pasteurized"
@@ -103193,7 +103193,7 @@
     "animal_details": "mollit exercitation veniam veniam quis ",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -103247,7 +103247,7 @@
     "age": 53.17734352727719,
     "allele_codes": "2224",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "eggs",
@@ -103298,7 +103298,7 @@
     "age": 67.62067975268141,
     "allele_codes": "2225",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -103341,7 +103341,7 @@
     "age": 44.692736943618705,
     "allele_codes": "2226",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "pork",
       "seafood",
       "rawmilk",
@@ -103470,7 +103470,7 @@
     "age": 23.21148711447801,
     "allele_codes": "2229",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese"
     ],
@@ -103579,7 +103579,7 @@
     "allele_codes": "2231",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -103940,7 +103940,7 @@
     "age": 60.625594010058435,
     "allele_codes": "2239",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese",
       "rawmilk",
@@ -104388,7 +104388,7 @@
     "age": 11.099384102783754,
     "allele_codes": "2249",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "rawcheese"
     ],
     "city": 0,
@@ -104464,7 +104464,7 @@
     "age": 25.50382381405331,
     "allele_codes": "2251",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 718,
@@ -104548,7 +104548,7 @@
     "allele_codes": "2253",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "milk pasteurized"
@@ -104640,7 +104640,7 @@
     "allele_codes": "2255",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "seafood",
       "dairy products",
       "rawmilk",
@@ -104791,7 +104791,7 @@
     "age": 31.71610557025592,
     "allele_codes": "2258",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "milk pasteurized"
     ],
@@ -104836,7 +104836,7 @@
     "age": 41.549314817317864,
     "allele_codes": "2259",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "clusters": [
@@ -105059,7 +105059,7 @@
     "age": 10.851873883295015,
     "allele_codes": "2264",
     "animal_product_exposures": [
-      "chick"
+      "chicken"
     ],
     "city": 0,
     "collection_date": 727,
@@ -105149,7 +105149,7 @@
     "allele_codes": "2266",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -105286,7 +105286,7 @@
     "age": 52.861627890550466,
     "allele_codes": "2269",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -105339,7 +105339,7 @@
     "allele_codes": "2270",
     "animal_details": "enim sint ex n dolor ",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "meat other",
       "processed meat",
       "dairy products",
@@ -105435,7 +105435,7 @@
     "age": 70.7327316199,
     "allele_codes": "2272",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products",
       "rawcheese",
       "rawmilk",
@@ -105489,7 +105489,7 @@
     "allele_codes": "2273",
     "animal_product_exposures": [
       "beef",
-      "chick",
+      "chicken",
       "processed meat"
     ],
     "city": 0,
@@ -105575,7 +105575,7 @@
     "age": 48.77786800968837,
     "allele_codes": "2275",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "turkey",
       "seafood",
@@ -105677,7 +105677,7 @@
     "age": 47.30370810693403,
     "allele_codes": "2277",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs",
       "rawcheese"
     ],
@@ -105922,7 +105922,7 @@
     "age": 15.320994345488877,
     "allele_codes": "2282",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "eggs"
     ],
     "city": 0,
@@ -106064,7 +106064,7 @@
     "age": 66.68893503602082,
     "allele_codes": "2285",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs",
       "rawmilk"
@@ -106308,7 +106308,7 @@
     "age": 55.86680857285409,
     "allele_codes": "2290",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "dairy products"
     ],
     "city": 0,
@@ -106358,7 +106358,7 @@
     "age": 28.220732276487446,
     "allele_codes": "2291",
     "animal_product_exposures": [
-      "chick",
+      "chicken",
       "processed meat",
       "eggs"
     ],

@@ -150,7 +150,7 @@ const appendBaselineDiff = (item, baseLine, recCount)=>{
 };
 
 const sortByBaselineDiff = (a, b)=>{
-  let diff = b[2] - a[2];
+  let diff = b[1] - a[1];
   if (diff === 0) {
     diff = `${a[0] || ''}`.localeCompare(`${b[0] || ''}`);
   }

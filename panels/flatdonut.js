@@ -65,7 +65,8 @@ export class FlatDonut {
       category = this.tally[this.selection][0];
     }
     this.numSpan.textContent = num;
-    this.categorySpan.textContent = category in this.set ? this.set[category] 
+    this.categorySpan.textContent = num === 0 ? ''
+        : category in this.set ? this.set[category] 
         : category === '' ? '(empty)'
         : category;
   }
@@ -202,7 +203,7 @@ export class FlatDonut {
     //   .style("fill", colors.Module.Readout.Text.Off)
     //   .text("available");
     this.div.classList.add("no-data");
-    console.log(this.div.classList)
+    // console.log(this.div.classList)
   }
 
 

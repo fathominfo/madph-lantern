@@ -52,7 +52,7 @@ export class TextAnalysis {
         this.buttonRepo[word] = ele;
         ele.addEventListener("click", ()=>this.datasource.toggleValue(word));
         ele.addEventListener("pointerenter", ()=>{
-          const countLabel = count.toLocaleString();
+          const countLabel = this.currentCounts[word].toLocaleString();
           // const pct = Math.round(windowPct*100);
           this.countEle.textContent = `${countLabel} match${count === 1 ? '' : 'es'}` ;
         });
